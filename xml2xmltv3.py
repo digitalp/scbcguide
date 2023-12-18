@@ -4,7 +4,7 @@ from datetime import datetime
 # Function to format date and time to XMLTV format
 def format_datetime(date_str, time_str):
     dt = datetime.strptime(f"{date_str} {time_str}", "%Y/%m/%d %H:%M")
-    return dt.strftime("%Y%m%d%H%M%S +0000")
+    return dt.strftime("%Y%m%d%H%M%S +0100")
 
 # Parse the original XML
 tree = ET.parse('SCBC TV.xml')  # Replace with your XML file path
