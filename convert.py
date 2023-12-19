@@ -4,7 +4,15 @@ from datetime import datetime
 def convert_time(date, time):
     # Converts time to the required format: YYYYMMDDHHMMSS +0000
     dt = datetime.strptime(f"{date} {time}", "%Y/%m/%d %H:%M")
-    return dt.strftime("%Y%m%d%H%M%S +0100")
+    return dt.strftime("%Y%m%d%H%M%S +0000")
+
+def get_next_start_time(programmes, index):
+    if index + 1 < len(programmes):
+        next_programme = programmes[index + 1]
+        date = next_programme.get("date")
+        time = next_programme.get("time")
+        return convert_time(date, time)
+    return ""  # No next program
 
 def convert_xml(input_file, output_file):
     # Parse the input XML file
@@ -24,14 +32,15 @@ def convert_xml(input_file, output_file):
     ET.SubElement(channel, "url").text = "http://www.scbcplayer.com"
 
     # Process each program
-    for programme in root.findall("programme"):
+    for i, programme in enumerate(root.findall("programme")):
         date = programme.get("date")
         time = programme.get("time")
         start_time = convert_time(date, time)
+        stop_time = get_next_start_time(root.findall("programme"), i)
 
         prog = ET.SubElement(tv, "programme", {
             "start": start_time,
-            "stop": "",  # Placeholder for stop time
+            "stop": stop_time,
             "channel": "SCBC Television"
         })
 
