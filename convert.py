@@ -32,7 +32,7 @@ def convert_xml(input_file, output_file):
         prog = ET.SubElement(tv, "programme", {
             "start": start_time,
             "stop": "",  # Placeholder for stop time
-            "channel": "SCBCTV"
+            "channel": "SCBC Television"
         })
 
         for element in programme:
@@ -49,4 +49,4 @@ def convert_xml(input_file, output_file):
     tree.write(output_file, encoding="utf-8", xml_declaration=True)
 
 # Convert the file
-convert_xml("SCBC TV.xml", "scbcguide.xml")
+convert_xml("SCBC Television.xml", "scbcguide.xml")
