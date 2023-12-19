@@ -52,3 +52,18 @@
   text-decoration: none;
   cursor: pointer;
 }
+
+/* Mobile Responsive Styles */
+@media screen and (max-width: 600px) {
+  #tvGuideContainer {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+
+  .modal-content {
+    width: 95%;
+  }
+
+  .close {
+    font-size: 36px; /* Larger touch target */
+  }
+}
