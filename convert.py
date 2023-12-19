@@ -49,7 +49,7 @@ def convert_xml(input_file, output_file):
                 ET.SubElement(prog, "title", {"lang": element.get("lang")}).text = element.text
             elif element.tag in ["local_episode_title", "original_episode_title"]:
                 ET.SubElement(prog, "sub-title", {"lang": element.get("lang")}).text = element.text
-            elif element.tag == "description":
+            elif element.tag == "episode_description":
                 ET.SubElement(prog, "desc", {"lang": element.get("lang")}).text = element.text
             # Add other elements as needed
 
