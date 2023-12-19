@@ -4,7 +4,7 @@ from datetime import datetime
 def convert_time(date, time):
     # Converts time to the required format: YYYYMMDDHHMMSS +0000
     dt = datetime.strptime(f"{date} {time}", "%Y/%m/%d %H:%M")
-    return dt.strftime("%Y%m%d%H%M%S +0000")
+    return dt.strftime("%Y%m%d%H%M%S +0100")
 
 def get_next_start_time(programmes, index):
     if index + 1 < len(programmes):
