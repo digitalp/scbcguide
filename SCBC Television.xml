@@ -1,42 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <channel name="SCBC Television">
-  <programme date="2023/12/19" time="06:00">
-    <local_title lang="eng">Walk at Home</local_title>
-    <original_title lang="en">Walk at Home</original_title>
-    <local_episode_title lang="eng">2 Mile Walk  Walk With A Doc</local_episode_title>
-    <original_episode_title lang="en">2 Mile Walk  Walk With A Doc</original_episode_title>
-    <description lang="eng">Health</description>
-    <description lang="en">Health</description>
-    <episode_description lang="eng">2 Mile Walk  Walk With A Doc</episode_description>
-    <episode_description lang="en">2 Mile Walk  Walk With A Doc</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="07:30">
-    <local_title lang="eng">Denver, the Last Dinosaur</local_title>
-    <original_title lang="en">Denver, the Last Dinosaur</original_title>
-    <local_episode_title lang="eng">S1.E1 ∙ Denver, the Last Dinosaur</local_episode_title>
-    <original_episode_title lang="en">Denver, the Last Dinosaur</original_episode_title>
-    <description lang="eng">Kids</description>
-    <description lang="en">Kids</description>
-    <episode_description lang="eng">It is late Spring when Wally, Jeremy, Shades and Mario are at the La Brea Tar Pits working on a school research project. They discover a mysterious tar egg that cracks open to reveal a friendly dinosaur, whom they name "Denver." Keeping their pet dino a secret is a challenge when rock concert promoter Morton Fizzback makes repeated attempts to capture the young dino and use him as the star in his rock 'n' roll show.</episode_description>
-    <episode_description lang="en">It is late Spring when Wally, Jeremy, Shades and Mario are at the La Brea Tar Pits working on a school research project. They discover a mysterious tar egg that cracks open to reveal a friendly dinosaur, whom they name "Denver." Keeping their pet dino a secret is a challenge when rock concert promoter Morton Fizzback makes repeated attempts to capture the young dino and use him as the star in his rock 'n' roll show.</episode_description>
-    <season_number>S1</season_number>
-    <episode_number>E1</episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="08:17">
+  <programme date="2023/12/20" time="08:17">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -50,7 +14,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/19" time="08:24">
+  <programme date="2023/12/20" time="08:24">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -64,24 +28,15 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/19" time="08:30">
+  <programme date="2023/12/20" time="08:30">
     <local_title lang="eng">Shamba Shape Up Series 1</local_title>
     <original_title lang="en">Shamba Shape Up Series 1</original_title>
-    <local_episode_title lang="eng">Shamba Shape Up Series 1-Ep 2</local_episode_title>
-    <original_episode_title lang="en">Shamba Shape Up Series 1-Ep 2</original_episode_title>
-    <description lang="eng">Agriculture</description>
+    <local_episode_title lang="eng">Shamba Shape Up Series 1 - Ep 3: Tomatoes, Cow Care, Chickens</local_episode_title>
+    <original_episode_title lang="en">Shamba Shape Up Series 1-Ep 3</original_episode_title>
+    <description lang="eng">Farming</description>
     <description lang="en">Agriculture</description>
-    <episode_description lang="eng">Today we’re in Bulika village in Mukono and we’re visiting farmer Olivia Kiwombeeka. A very hard-working lady and mother to 14 children. She has a 4-acre farm where she grows coffee, bananas, sweet potatoes, cassava, beans! And don’t forget the cows, the pigs, the goats, the chicken, the pigeons!!!
-
-Where does she find the energy???
-
-In this farm we are learning about:
-
-     1. Soil fertility and manure drying and soil testing
-     2. Pests and diseases control in Coffee plantation
-     3. Bananas: Good farming practices
-     4. Orange Fleshed Sweet Potatoes</episode_description>
-    <episode_description lang="en">Today we’re in Bulika village in Mukono and we’re visiting farmer Olivia Kiwombeeka. A very hard-working lady and mother to 14 children. She has a 4-acre farm where she grows coffee, bananas, sweet potatoes, cassava, beans! And don’t forget the cows, the pigs, the goats, the chicken, the pigeons!!!</episode_description>
+    <episode_description lang="eng">Meet Jeremiah Who inherited his grandfather's farm with all its problems. Jeremiah learns how to manage his tomatoes, dairy &amp; poultry.  </episode_description>
+    <episode_description lang="en">Meet Jeremiah Who inherited his grandfather's farm with all its problems. Jeremiah learns how to manage his tomatoes, dairy &amp; poultry.  </episode_description>
     <season_number></season_number>
     <episode_number></episode_number>
     <Year></Year>
@@ -91,220 +46,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/19" time="09:00">
-    <local_title lang="eng">Africa's Food Fest</local_title>
-    <original_title lang="en">African Food Fest!</original_title>
-    <local_episode_title lang="eng">Kenyas BIGGEST MARKET STREET FOOD </local_episode_title>
-    <original_episode_title lang="en">Kenyas BIGGEST MARKET STREET FOOD </original_episode_title>
-    <description lang="eng">Variety</description>
-    <description lang="en">Variety</description>
-    <episode_description lang="eng">Kenyas BIGGEST MARKET STREET FOOD </episode_description>
-    <episode_description lang="en">African Food Fest!</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="09:31">
-    <original_title lang="en">The Legacy Of Purpose</original_title>
-    <original_episode_title lang="en">The Legacy Of Purpose</original_episode_title>
-    <description lang="en">Motivational</description>
-    <episode_description lang="en">The Legacy Of Purpose</episode_description>
-    <season_number>S01</season_number>
-    <episode_number>EP1</episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="10:00">
-    <local_title lang="eng">Real Engineering</local_title>
-    <original_title lang="en">Real Engineering</original_title>
-    <local_episode_title lang="eng">The Insane Engineering of the Space Shuttle</local_episode_title>
-    <original_episode_title lang="en">The Insane Engineering of the Space Shuttle</original_episode_title>
-    <description lang="eng">Science</description>
-    <description lang="en">Science</description>
-    <episode_description lang="eng">The Insane Engineering of the Space Shuttle</episode_description>
-    <episode_description lang="en">The Insane Engineering of the Space Shuttle</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="10:30">
-    <local_title lang="eng">The Fresh Prince of Bel-Air</local_title>
-    <original_title lang="en">The Fresh Prince of Bel-Air</original_title>
-    <local_episode_title lang="eng">S1.E2 ∙ Bang the Drum, Ashley</local_episode_title>
-    <original_episode_title lang="en">S1.E2 ∙ Bang the Drum, Ashley</original_episode_title>
-    <description lang="eng">Comedy</description>
-    <description lang="en">Comedy</description>
-    <episode_description lang="eng">After Ashley reveals to him that she does not enjoy playing the violin he takes her to and trades her violin in for a drum set. Then reveals that he has already hired Ashley a teacher. Jazz.</episode_description>
-    <episode_description lang="en">After Ashley reveals to him that she does not enjoy playing the violin he takes her to and trades her violin in for a drum set. Then reveals that he has already hired Ashley a teacher. Jazz.</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="11:00">
-    <local_title lang="eng">Heart Beat</local_title>
-    <original_title lang="en">Heart Beat</original_title>
-    <local_episode_title lang="eng">Episode 01</local_episode_title>
-    <original_episode_title lang="en">Episode 1</original_episode_title>
-    <description lang="eng">Series</description>
-    <description lang="en">Series</description>
-    <episode_description lang="eng">Rüzgar goes to Bosnia after losing the woman he loves in a car crash two years ago, to run away from everything and everyone but mostly his memories.. He doesn’t make contact with anyone for two years, including his family. His uncle Kemaç and his mother Vahide who is the owner of a major corporation in Turkey, find Ruzgar after long efforts. So Kemal goes to Bosnia to bring Rüzgar back. But Rüzgar is still heartbroken. He can’t live like this so he runs away after a family dinner without telling anyone. He finds himself in Foça after meeting with a taxi driver. Meanwhile Zeynep is about to marry her childhood love Kutay. There’s only a week until the wedding, while the preparations continue Zeynep learns that she was cheated on.  She goes to Foça to her most dear grandpa Muammer and aunt Ayla. However, she faints just before she could get there, right in front of Rüzgar’s house. She hides her true identity from everyone except Rüzgar. Afterwards, Zeynep is forced to see Kutay as her best friend Hande is getting married. Sibel, Başak and Hande think up a plan. But they need Rüzgar to make this plan work. Rüzgar can’t say no to this after hearing what happened to Zeynep.  So a game  of hearts begins between Zeynep and Rüzgar.</episode_description>
-    <episode_description lang="en">Rüzgar goes to Bosnia after losing the woman he loves in a car crash two years ago, to run away from everything and everyone but mostly his memories.. He doesn’t make contact with anyone for two years, including his family. His uncle Kemaç and his mother Vahide who is the owner of a major corporation in Turkey, find Ruzgar after long efforts. So Kemal goes to Bosnia to bring Rüzgar back. But Rüzgar is still heartbroken. He can’t live like this so he runs away after a family dinner without telling anyone. He finds himself in Foça after meeting with a taxi driver. Meanwhile Zeynep is about to marry her childhood love Kutay. There’s only a week until the wedding, while the preparations continue Zeynep learns that she was cheated on.  She goes to Foça to her most dear grandpa Muammer and aunt Ayla. However, she faints just before she could get there, right in front of Rüzgar’s house. She hides her true identity from everyone except Rüzgar. Afterwards, Zeynep is forced to see Kutay as her best friend Hande is getting married. Sibel, Başak and Hande think up a plan. But they need Rüzgar to make this plan work. Rüzgar can’t say no to this after hearing what happened to Zeynep.  So a game  of hearts begins between Zeynep and Rüzgar.</episode_description>
-    <season_number></season_number>
-    <episode_number>01</episode_number>
-    <Year>2016</Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="12:00">
-    <local_title lang="en">Africa News</local_title>
-    <original_title lang="en">Africa News</original_title>
-    <local_episode_title lang="en"></local_episode_title>
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="en"></description>
-    <description lang="en"></description>
-    <episode_description lang="en"></episode_description>
-    <episode_description lang="en"></episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="13:00">
-    <local_title lang="eng">Coming to America</local_title>
-    <original_title lang="en">Coming to America</original_title>
-    <local_episode_title lang="eng"></local_episode_title>
-    <original_episode_title lang="en">Coming to America</original_episode_title>
-    <description lang="eng">Movie</description>
-    <description lang="en">Movie</description>
-    <episode_description lang="eng">An extremely pampered African prince travels to Queens, New York and goes undercover to find a wife that he can respect for her intelligence and strong will.</episode_description>
-    <episode_description lang="en">An extremely pampered African prince travels to Queens, New York and goes undercover to find a wife that he can respect for her intelligence and strong will.</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="15:00">
-    <local_title lang="eng">America's Funniest Home Videos</local_title>
-    <original_title lang="en" />
-    <local_episode_title lang="eng">America's Funniest Home Videos</local_episode_title>
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="eng">Variety</description>
-    <description lang="en"></description>
-    <episode_description lang="eng">America's Funniest Home Videos</episode_description>
-    <episode_description lang="en"></episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="16:00">
-    <local_title lang="eng">Prehistoric Planet</local_title>
-    <original_title lang="en">Prehistoric Planet</original_title>
-    <local_episode_title lang="eng">S1.E2 ∙ Deserts</local_episode_title>
-    <original_episode_title lang="en">S1.E2 ∙ Deserts</original_episode_title>
-    <description lang="eng">Documentary</description>
-    <description lang="en">Documentary</description>
-    <episode_description lang="eng">Above the deserts of North Africa, aerial combat ensues as male Barbaridactylus pterosaurs fight for the attention of females below.
-</episode_description>
-    <episode_description lang="en">Above the deserts of North Africa, aerial combat ensues as male Barbaridactylus pterosaurs fight for the attention of females below.</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="17:00">
-    <local_title lang="eng">Dr. Myles Monroe</local_title>
-    <original_title lang="en">Dr Myles Monroe</original_title>
-    <local_episode_title lang="eng">How to Make your Marriage Work</local_episode_title>
-    <original_episode_title lang="en">How to Make your Marriage Work</original_episode_title>
-    <description lang="eng">Motivational/Religion</description>
-    <description lang="en">Motivational/Religion</description>
-    <episode_description lang="eng">How to Make your Marriage Work</episode_description>
-    <episode_description lang="en">How to Make your Marriage Work</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="18:00">
-    <local_title lang="en">News Hour</local_title>
-    <original_title lang="en">News Hour</original_title>
-    <local_episode_title lang="en"></local_episode_title>
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="en"></description>
-    <description lang="en"></description>
-    <episode_description lang="en"></episode_description>
-    <episode_description lang="en"></episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="19:00">
-    <local_title lang="eng">Amba Farmers Voice </local_title>
-    <original_title lang="en">Amba Farmers Voice </original_title>
-    <local_episode_title lang="eng">Amba Farmers Voice </local_episode_title>
-    <original_episode_title lang="en">Amba Farmers Voice </original_episode_title>
-    <description lang="eng">Agriculture</description>
-    <description lang="en">Agriculture</description>
-    <episode_description lang="eng">Amba Farmers Voice </episode_description>
-    <episode_description lang="en">Amba Farmers Voice </episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="20:00">
+  <programme date="2023/12/20" time="09:00">
     <local_title lang="eng">Heartbeat</local_title>
     <original_title lang="en">Heartbeat</original_title>
     <local_episode_title lang="eng">S1.E2 ∙ 2.Bölüm</local_episode_title>
@@ -322,47 +64,16 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/19" time="21:00">
-    <local_title lang="eng">White Christmas</local_title>
-    <original_title lang="en">White Christmas</original_title>
-    <local_episode_title lang="eng">White Christmas</local_episode_title>
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="eng">Movie</description>
-    <description lang="en">Movie</description>
-    <episode_description lang="eng">A successful song-and-dance team become romantically involved with a sister act and team up to save the failing Vermont inn of their former commanding general.</episode_description>
-    <episode_description lang="en">A successful song-and-dance team become romantically involved with a sister act and team up to save the failing Vermont inn of their former commanding general.</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/19" time="23:00">
-    <local_title lang="eng">The Leaderless Revolution</local_title>
-    <original_title lang="en">The Leaderless Revolution</original_title>
-    <local_episode_title lang="eng">The Leaderless Revolution</local_episode_title>
-    <original_episode_title lang="en">The Leaderless Revolution</original_episode_title>
+  <programme date="2023/12/20" time="09:45">
+    <local_title lang="eng">Ted Talk</local_title>
+    <original_title lang="en">TEDTalk </original_title>
+    <local_episode_title lang="eng">The thrilling potential for off-grid solar energy | Amar Inamdar</local_episode_title>
+    <original_episode_title lang="en">The thrilling potential for off-grid solar energy | Amar Inamdar</original_episode_title>
     <description lang="eng">Motivational</description>
     <description lang="en">Motivational</description>
-    <episode_description lang="eng">Carne Ross is the author of "The Leaderless Revolution: How ordinary people will take power and change politics in the 21st century" - published in the UK by Simon &amp; Schuster and in the US by Blue Rider Press and Plume books (both Penguin USA).</episode_description>
-    <episode_description lang="en"></episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director>Carne Ross is the author of "The Leaderless Revolution: How ordinary people will take power and change politics in the 21st century" - published in the UK by Simon &amp; Schuster and in the US by Blue Rider Press and Plume books (both Penguin USA).</director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="00:25">
-    <original_title lang="en" />
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="en"></description>
-    <episode_description lang="en"></episode_description>
+    <episode_description lang="eng">There's an energy revolution happening in villages and towns across Africa -- off-grid solar energy is becoming a viable alternative to traditional electricity systems. In a bold talk about a true leapfrog moment, Amar Inamdar introduces us to proud owners of off-grid solar kits -- and explains how this technology has the opportunity to meet two extraordinary goals: energy access for all and a low-carbon future. "Every household a proud producer as well as consumer of energy," Inamdar says. "That's the democracy of energy." (Followed by a brief Q&amp;A with TED Curator Chris Anderson)
+</episode_description>
+    <episode_description lang="en">There's an energy revolution happening in villages and towns across Africa -- off-grid solar energy is becoming a viable alternative to traditional electricity systems. In a bold talk about a true leapfrog moment, Amar Inamdar introduces us to proud owners of off-grid solar kits -- and explains how this technology has the opportunity to meet two extraordinary goals: energy access for all and a low-carbon future. "Every household a proud producer as well as consumer of energy," Inamdar says. "That's the democracy of energy." (Followed by a brief Q&amp;A with TED Curator Chris Anderson)</episode_description>
     <season_number></season_number>
     <episode_number></episode_number>
     <Year></Year>
@@ -372,74 +83,11 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="00:30">
-    <local_title lang="eng">Shamba Shape Up Series 1</local_title>
-    <original_title lang="en">Shamba Shape Up Series 1</original_title>
-    <local_episode_title lang="eng">Shamba Shape Up Series 1-Ep 2</local_episode_title>
-    <original_episode_title lang="en">Shamba Shape Up Series 1-Ep 2</original_episode_title>
-    <description lang="eng">Agriculture</description>
-    <description lang="en">Agriculture</description>
-    <episode_description lang="eng">Today we’re in Bulika village in Mukono and we’re visiting farmer Olivia Kiwombeeka. A very hard-working lady and mother to 14 children. She has a 4-acre farm where she grows coffee, bananas, sweet potatoes, cassava, beans! And don’t forget the cows, the pigs, the goats, the chicken, the pigeons!!!
-
-Where does she find the energy???
-
-In this farm we are learning about:
-
-     1. Soil fertility and manure drying and soil testing
-     2. Pests and diseases control in Coffee plantation
-     3. Bananas: Good farming practices
-     4. Orange Fleshed Sweet Potatoes</episode_description>
-    <episode_description lang="en">Today we’re in Bulika village in Mukono and we’re visiting farmer Olivia Kiwombeeka. A very hard-working lady and mother to 14 children. She has a 4-acre farm where she grows coffee, bananas, sweet potatoes, cassava, beans! And don’t forget the cows, the pigs, the goats, the chicken, the pigeons!!!</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="01:00">
-    <local_title lang="eng">Africa's Food Fest</local_title>
-    <original_title lang="en">African Food Fest!</original_title>
-    <local_episode_title lang="eng">Kenyas BIGGEST MARKET STREET FOOD </local_episode_title>
-    <original_episode_title lang="en">Kenyas BIGGEST MARKET STREET FOOD </original_episode_title>
-    <description lang="eng">Variety</description>
-    <description lang="en">Variety</description>
-    <episode_description lang="eng">Kenyas BIGGEST MARKET STREET FOOD </episode_description>
-    <episode_description lang="en">African Food Fest!</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="01:31">
-    <original_title lang="en">The Legacy Of Purpose</original_title>
-    <original_episode_title lang="en">The Legacy Of Purpose</original_episode_title>
-    <description lang="en">Motivational</description>
-    <episode_description lang="en">The Legacy Of Purpose</episode_description>
-    <season_number>S01</season_number>
-    <episode_number>EP1</episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="02:00">
-    <local_title lang="eng">Real Engineering</local_title>
+  <programme date="2023/12/20" time="10:00">
     <original_title lang="en">Real Engineering</original_title>
-    <local_episode_title lang="eng">The Insane Engineering of the Space Shuttle</local_episode_title>
-    <original_episode_title lang="en">The Insane Engineering of the Space Shuttle</original_episode_title>
-    <description lang="eng">Science</description>
+    <original_episode_title lang="en">The Insane Engineering of the 787</original_episode_title>
     <description lang="en">Science</description>
-    <episode_description lang="eng">The Insane Engineering of the Space Shuttle</episode_description>
-    <episode_description lang="en">The Insane Engineering of the Space Shuttle</episode_description>
+    <episode_description lang="en">The Insane Engineering of the 787.mp4</episode_description>
     <season_number></season_number>
     <episode_number></episode_number>
     <Year></Year>
@@ -449,7 +97,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="02:30">
+  <programme date="2023/12/20" time="10:30">
     <local_title lang="eng">The Fresh Prince of Bel-Air</local_title>
     <original_title lang="en">The Fresh Prince of Bel-Air</original_title>
     <local_episode_title lang="eng">S1.E2 ∙ Bang the Drum, Ashley</local_episode_title>
@@ -467,39 +115,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="03:00">
-    <local_title lang="eng">Heart Beat</local_title>
-    <original_title lang="en">Heart Beat</original_title>
-    <local_episode_title lang="eng">Episode 01</local_episode_title>
-    <original_episode_title lang="en">Episode 1</original_episode_title>
-    <description lang="eng">Series</description>
-    <description lang="en">Series</description>
-    <episode_description lang="eng">Rüzgar goes to Bosnia after losing the woman he loves in a car crash two years ago, to run away from everything and everyone but mostly his memories.. He doesn’t make contact with anyone for two years, including his family. His uncle Kemaç and his mother Vahide who is the owner of a major corporation in Turkey, find Ruzgar after long efforts. So Kemal goes to Bosnia to bring Rüzgar back. But Rüzgar is still heartbroken. He can’t live like this so he runs away after a family dinner without telling anyone. He finds himself in Foça after meeting with a taxi driver. Meanwhile Zeynep is about to marry her childhood love Kutay. There’s only a week until the wedding, while the preparations continue Zeynep learns that she was cheated on.  She goes to Foça to her most dear grandpa Muammer and aunt Ayla. However, she faints just before she could get there, right in front of Rüzgar’s house. She hides her true identity from everyone except Rüzgar. Afterwards, Zeynep is forced to see Kutay as her best friend Hande is getting married. Sibel, Başak and Hande think up a plan. But they need Rüzgar to make this plan work. Rüzgar can’t say no to this after hearing what happened to Zeynep.  So a game  of hearts begins between Zeynep and Rüzgar.</episode_description>
-    <episode_description lang="en">Rüzgar goes to Bosnia after losing the woman he loves in a car crash two years ago, to run away from everything and everyone but mostly his memories.. He doesn’t make contact with anyone for two years, including his family. His uncle Kemaç and his mother Vahide who is the owner of a major corporation in Turkey, find Ruzgar after long efforts. So Kemal goes to Bosnia to bring Rüzgar back. But Rüzgar is still heartbroken. He can’t live like this so he runs away after a family dinner without telling anyone. He finds himself in Foça after meeting with a taxi driver. Meanwhile Zeynep is about to marry her childhood love Kutay. There’s only a week until the wedding, while the preparations continue Zeynep learns that she was cheated on.  She goes to Foça to her most dear grandpa Muammer and aunt Ayla. However, she faints just before she could get there, right in front of Rüzgar’s house. She hides her true identity from everyone except Rüzgar. Afterwards, Zeynep is forced to see Kutay as her best friend Hande is getting married. Sibel, Başak and Hande think up a plan. But they need Rüzgar to make this plan work. Rüzgar can’t say no to this after hearing what happened to Zeynep.  So a game  of hearts begins between Zeynep and Rüzgar.</episode_description>
-    <season_number></season_number>
-    <episode_number>01</episode_number>
-    <Year>2016</Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="03:46">
-    <original_title lang="en" />
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="en"></description>
-    <episode_description lang="en"></episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="04:00">
+  <programme date="2023/12/20" time="11:00">
     <local_title lang="eng">Heartbeat</local_title>
     <original_title lang="en">Heartbeat</original_title>
     <local_episode_title lang="eng">S1.E2 ∙ 2.Bölüm</local_episode_title>
@@ -517,15 +133,11 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="05:01">
-    <local_title lang="eng">America's Funniest Home Videos</local_title>
-    <original_title lang="en" />
-    <local_episode_title lang="eng">America's Funniest Home Videos</local_episode_title>
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="eng">Variety</description>
-    <description lang="en"></description>
-    <episode_description lang="eng">America's Funniest Home Videos</episode_description>
-    <episode_description lang="en"></episode_description>
+  <programme date="2023/12/20" time="11:46">
+    <original_title lang="en">TED Talk</original_title>
+    <original_episode_title lang="en">TED Talk - How Africa can use its traditional knowledge to make progress   Chika Ezeanya-Esiobu</original_episode_title>
+    <description lang="en">Motivational</description>
+    <episode_description lang="en">Chika Ezeanya-Esiobu wants to see Africans unleash their suppressed creative and innovative energies by acknowledging the significance of their indigenous, authentic knowledge. In this powerful talk, she shares examples of untapped, traditional African knowledge in agriculture and policy-making, calling on Africans to make progress by validating and dignifying their reality.</episode_description>
     <season_number></season_number>
     <episode_number></episode_number>
     <Year></Year>
@@ -535,188 +147,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="06:31">
-    <local_title lang="en">Africa News</local_title>
-    <original_title lang="en">Africa News</original_title>
-    <local_episode_title lang="en"></local_episode_title>
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="en"></description>
-    <description lang="en"></description>
-    <episode_description lang="en"></episode_description>
-    <episode_description lang="en"></episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="07:31">
-    <local_title lang="eng">Paw Patrol</local_title>
-    <original_title lang="en">Paw Patrol</original_title>
-    <local_episode_title lang="eng">Pups Save a Blimp</local_episode_title>
-    <original_episode_title lang="en">Pups Save a Blimp</original_episode_title>
-    <description lang="eng">Kids</description>
-    <description lang="en">Kids</description>
-    <episode_description lang="eng">Capn' Turbot's weather blimp is taken by Mayor Humdinger, who plans to use it to change the weather in Foggy Bottom</episode_description>
-    <episode_description lang="en">Capn' Turbot's weather blimp is taken by Mayor Humdinger, who plans to use it to change the weather in Foggy Bottom</episode_description>
-    <season_number>S04</season_number>
-    <episode_number>01</episode_number>
-    <Year>2017</Year>
-    <country>USA</country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="07:55">
-    <local_title lang="eng">Paw Patrol</local_title>
-    <original_title lang="en">Paw Patrol </original_title>
-    <local_episode_title lang="eng">Pups Save the Chili Cook-Off</local_episode_title>
-    <original_episode_title lang="en">Pups Save the Chili Cook-Off</original_episode_title>
-    <description lang="eng">Kids</description>
-    <description lang="en">Kids</description>
-    <episode_description lang="eng">Mr. Porter's stove explodes right before the chili cook-off!</episode_description>
-    <episode_description lang="en">Mr. Porter's stove explodes right before the chili cook-off!</episode_description>
-    <season_number>S04</season_number>
-    <episode_number>02</episode_number>
-    <Year>2017</Year>
-    <country>USA</country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="08:18">
-    <original_title lang="en" />
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="en"></description>
-    <episode_description lang="en"></episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="08:25">
-    <original_title lang="en" />
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="en"></description>
-    <episode_description lang="en"></episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="08:31">
-    <local_title lang="eng">Shamba Shape Up</local_title>
-    <original_title lang="en">Shamba Shape Up</original_title>
-    <local_episode_title lang="eng">Dairy, Soil test, Banana, Crop Rotation and Vegetables</local_episode_title>
-    <original_episode_title lang="en">Dairy, Soil test, Banana, Crop Rotation and Vegetables</original_episode_title>
-    <description lang="eng">Farming</description>
-    <description lang="en">Farming</description>
-    <episode_description lang="eng">Today we’re in Kirangira Village, Mukono central and we’re meeting with farmer  Dorothy Nakalembe.
-Dorothy’s a very experienced lady who’s been farming since 1980. She has a 3-acre farm where she grows bananas, maize and vegetables .She also has cows but she needs expert advice on them and of course for her vegetables.
-This is one farmer who knows what she wants!
-
-In this farm we are learning about:
-
-            1. Dairy breeding, nutrition and hygiene
-            2. What to plant after Clearing Banana plantation
-            3. Soil testing on banana plantation
-            4.  Vegetables transplanting and good farming practices</episode_description>
-    <episode_description lang="en">Today we’re in Kirangira Village, Mukono central and we’re meeting with farmer  Dorothy Nakalembe.</episode_description>
-    <season_number>S01</season_number>
-    <episode_number>01</episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="09:01">
-    <local_title lang="eng">Barney: Big World Adventure: The Movie</local_title>
-    <original_title lang="en">Barney: Big World Adventure: The Movie</original_title>
-    <local_episode_title lang="eng">Barney: Big World Adventure: The Movie</local_episode_title>
-    <original_episode_title lang="en">Barney: Big World Adventure: The Movie</original_episode_title>
-    <description lang="eng">Kids</description>
-    <description lang="en">Kids</description>
-    <episode_description lang="eng">Take a hot air balloon ride with Barney around the world in this classic movie.</episode_description>
-    <episode_description lang="en">Take a hot air balloon ride with Barney around the world in this classic movie.</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="10:02">
-    <local_title lang="eng">Real Engineering</local_title>
-    <original_title lang="en">Real Engineering</original_title>
-    <local_episode_title lang="eng">The Insane Engineering of James Webb Telescope</local_episode_title>
-    <original_episode_title lang="en">The Insane Engineering of James Webb Telescope</original_episode_title>
-    <description lang="eng">Documentary</description>
-    <description lang="en">Documentary</description>
-    <episode_description lang="eng">The Insane Engineering of James Webb Telescope</episode_description>
-    <episode_description lang="en">The Insane Engineering of James Webb Telescope</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="10:34">
-    <local_title lang="eng">SCBC Panorama</local_title>
-    <original_title lang="en">SCBC Panorama</original_title>
-    <local_episode_title lang="eng">Conquering My Messy Mind Mental Health</local_episode_title>
-    <original_episode_title lang="en">Conquering My Messy Mind Mental Health</original_episode_title>
-    <description lang="eng">Health &amp; Wellness</description>
-    <description lang="en">Health &amp; Wellness</description>
-    <episode_description lang="eng">Conquering My Messy Mind Mental Health</episode_description>
-    <episode_description lang="en">Conquering My Messy Mind Mental Health</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="11:02">
-    <local_title lang="eng">The Fresh Prince of Bel-Air</local_title>
-    <original_title lang="en">The Fresh Prince of Bel Air</original_title>
-    <local_episode_title lang="eng">S1.E1 ∙ The Fresh Prince Project</local_episode_title>
-    <original_episode_title lang="en">The Fresh Prince Project</original_episode_title>
-    <description lang="eng">Comedy</description>
-    <description lang="en">Comedy</description>
-    <episode_description lang="eng">A streetwise teenager is sent by his mother to live with wealthy relatives in an upper-class California neighborhood, where he must adjust to a new lifestyle.</episode_description>
-    <episode_description lang="en">A streetwise teenager is sent by his mother to live with wealthy relatives in an upper-class California neighborhood, where he must adjust to a new lifestyle.</episode_description>
-    <season_number>S01</season_number>
-    <episode_number>01</episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="11:25">
+  <programme date="2023/12/20" time="12:01">
     <local_title lang="eng">African Safari</local_title>
     <original_title lang="en">African Safari</original_title>
     <local_episode_title lang="eng">African Safari</local_episode_title>
@@ -734,15 +165,11 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="13:24">
-    <local_title lang="eng">The Gods Must Be Crazy</local_title>
-    <original_title lang="en">The Gods Must Be Crazy</original_title>
-    <local_episode_title lang="eng">The Gods Must Be Crazy</local_episode_title>
-    <original_episode_title lang="en">The Gods Must Be Crazy</original_episode_title>
-    <description lang="eng">Movie</description>
+  <programme date="2023/12/20" time="13:30">
+    <original_title lang="en">The Nativity Story</original_title>
+    <original_episode_title lang="en">The Nativity Story</original_episode_title>
     <description lang="en">Movie</description>
-    <episode_description lang="eng">A comic allegory about a traveling Bushman who encounters modern civilization and its stranger aspects, including a clumsy scientist and a band of revolutionaries.</episode_description>
-    <episode_description lang="en">A comic allegory about a traveling Bushman who encounters modern civilization and its stranger aspects, including a clumsy scientist and a band of revolutionaries.</episode_description>
+    <episode_description lang="en">In Nazareth, teenager Mary is betrothed to the local carpenter, Joseph. Mary is visited by an angel and told that she will fulfill a prophecy and as a virgin give birth to God's son, the savior of the world. Mary's pregnancy brings her the scorn of the community and Joseph struggles to believe her seemingly outlandish story. Meanwhile, a census forces every man and his family to return to his place of birth. Joseph and Mary set out on a long and arduous journey to Bethlehem. This story is based on the Biblical account of the birth of Jesus Christ.</episode_description>
     <season_number></season_number>
     <episode_number></episode_number>
     <Year></Year>
@@ -752,7 +179,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="15:08">
+  <programme date="2023/12/20" time="15:11">
     <local_title lang="eng">TED Talk</local_title>
     <original_title lang="en">TED Talk</original_title>
     <local_episode_title lang="eng">To solve the world's biggest problems, invest in women and girls</local_episode_title>
@@ -770,25 +197,21 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="15:23">
-    <local_title lang="eng">Paw Patrol</local_title>
-    <original_title lang="en">Paw Patrol</original_title>
-    <local_episode_title lang="eng">Pups Save a Blimp</local_episode_title>
-    <original_episode_title lang="en">Pups Save a Blimp</original_episode_title>
-    <description lang="eng">Kids</description>
+  <programme date="2023/12/20" time="15:30">
+    <original_title lang="en">DENVER THE LAST DINOSAUR</original_title>
+    <original_episode_title lang="en">S1.E2 ∙ In the Chips</original_episode_title>
     <description lang="en">Kids</description>
-    <episode_description lang="eng">Capn' Turbot's weather blimp is taken by Mayor Humdinger, who plans to use it to change the weather in Foggy Bottom</episode_description>
-    <episode_description lang="en">Capn' Turbot's weather blimp is taken by Mayor Humdinger, who plans to use it to change the weather in Foggy Bottom</episode_description>
-    <season_number>S04</season_number>
-    <episode_number>01</episode_number>
-    <Year>2017</Year>
-    <country>USA</country>
+    <episode_description lang="en">Following Jeremy to his job at the supermarket, Denver hides in the storeroom and stuffs himself full of potato chips. Meanwhile, Casey heads from the La Brea Tar Pits with Wally's dog, Rocky, to look for another dinosaur. Sitting on the remains of Denver's tar shell, she and Rocky drift back in time to a prehistoric jungle</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
     <director></director>
     <lead_actors></lead_actors>
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="15:46">
+  <programme date="2023/12/20" time="15:53">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -802,31 +225,27 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="15:54">
-    <local_title lang="eng">Prehistoric Planet</local_title>
-    <original_title lang="en">Prehistoric.Planet</original_title>
-    <local_episode_title lang="eng">Coasts</local_episode_title>
-    <original_episode_title lang="en">Coasts</original_episode_title>
-    <description lang="eng">Documentary</description>
+  <programme date="2023/12/20" time="16:00">
+    <original_title lang="en">Prehistoric Planet</original_title>
+    <original_episode_title lang="en">S1.E3 ∙ Freshwater</original_episode_title>
     <description lang="en">Documentary</description>
-    <episode_description lang="eng">A pregnant Tuarangisaurus is in distress and her young calf can sense it as she travels waters that are home to the ocean's deadliest predators.</episode_description>
-    <episode_description lang="en">A pregnant Tuarangisaurus is in distress and her young calf can sense it as she travels waters that are home to the ocean's deadliest predators.</episode_description>
-    <season_number>S01</season_number>
-    <episode_number>01</episode_number>
-    <Year>2022</Year>
+    <episode_description lang="en">With its feathered body and duck bill, the eight-ton Deinocheirus wades through an Asian wetland in search of relief from pesky biting flies.</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
     <country></country>
     <director></director>
     <lead_actors></lead_actors>
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="16:55">
+  <programme date="2023/12/20" time="16:59">
     <local_title lang="eng">America's Funniest Home Videos</local_title>
     <original_title lang="en">America's Funniest Home Videos</original_title>
     <local_episode_title lang="eng">America's Funniest Home Videos</local_episode_title>
     <original_episode_title lang="en">America's Funniest Home Videos</original_episode_title>
     <description lang="eng">Variety</description>
-    <description lang="en">America's Funniest Home Videos</description>
+    <description lang="en">Variety</description>
     <episode_description lang="eng">America's Funniest Home Videos</episode_description>
     <episode_description lang="en">America's Funniest Home Videos</episode_description>
     <season_number></season_number>
@@ -838,7 +257,25 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="17:38">
+  <programme date="2023/12/20" time="17:41">
+    <local_title lang="eng">TED Talk</local_title>
+    <original_title lang="en">TED Talk</original_title>
+    <local_episode_title lang="eng">100 solutions to reverse global warming</local_episode_title>
+    <original_episode_title lang="en">100 solutions to reverse global warming</original_episode_title>
+    <description lang="eng">Motivational</description>
+    <description lang="en">Motivational</description>
+    <episode_description lang="eng">What if we took out more greenhouse gases than we put into the atmosphere? This hypothetical scenario, known as "drawdown," is our only hope of averting climate disaster, says strategist Chad Frischmann. In a forward-thinking talk, he shares solutions to climate change that exist today -- conventional tactics like the use of renewable energy and better land management as well as some lesser-known approaches, like changes to food production, better family planning and the education of girls. Learn more about how we can reverse global warming and create a world where regeneration, not destruction, is the rule.</episode_description>
+    <episode_description lang="en">What if we took out more greenhouse gases than we put into the atmosphere? This hypothetical scenario, known as "drawdown," is our only hope of averting climate disaster, says strategist Chad Frischmann. In a forward-thinking talk, he shares solutions to climate change that exist today -- conventional tactics like the use of renewable energy and better land management as well as some lesser-known approaches, like changes to food production, better family planning and the education of girls. Learn more about how we can reverse global warming and create a world where regeneration, not destruction, is the rule.</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
+  <programme date="2023/12/20" time="18:00">
     <local_title lang="en">African News</local_title>
     <original_title lang="en">African News</original_title>
     <local_episode_title lang="en"></local_episode_title>
@@ -856,96 +293,15 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="18:39">
-    <local_title lang="en">The Great Conversation</local_title>
-    <original_title lang="en">The Great Conversation</original_title>
-    <local_episode_title lang="en"></local_episode_title>
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="en"></description>
-    <description lang="en"></description>
-    <episode_description lang="en"></episode_description>
-    <episode_description lang="en"></episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="19:39">
-    <local_title lang="eng">Heart Beat</local_title>
-    <original_title lang="en">Heart Beat</original_title>
-    <local_episode_title lang="eng">Episode 01</local_episode_title>
-    <original_episode_title lang="en">Episode 1</original_episode_title>
-    <description lang="eng">Series</description>
-    <description lang="en">Series</description>
-    <episode_description lang="eng">Rüzgar goes to Bosnia after losing the woman he loves in a car crash two years ago, to run away from everything and everyone but mostly his memories.. He doesn’t make contact with anyone for two years, including his family. His uncle Kemaç and his mother Vahide who is the owner of a major corporation in Turkey, find Ruzgar after long efforts. So Kemal goes to Bosnia to bring Rüzgar back. But Rüzgar is still heartbroken. He can’t live like this so he runs away after a family dinner without telling anyone. He finds himself in Foça after meeting with a taxi driver. Meanwhile Zeynep is about to marry her childhood love Kutay. There’s only a week until the wedding, while the preparations continue Zeynep learns that she was cheated on.  She goes to Foça to her most dear grandpa Muammer and aunt Ayla. However, she faints just before she could get there, right in front of Rüzgar’s house. She hides her true identity from everyone except Rüzgar. Afterwards, Zeynep is forced to see Kutay as her best friend Hande is getting married. Sibel, Başak and Hande think up a plan. But they need Rüzgar to make this plan work. Rüzgar can’t say no to this after hearing what happened to Zeynep.  So a game  of hearts begins between Zeynep and Rüzgar.</episode_description>
-    <episode_description lang="en">Rüzgar goes to Bosnia after losing the woman he loves in a car crash two years ago, to run away from everything and everyone but mostly his memories.. He doesn’t make contact with anyone for two years, including his family. His uncle Kemaç and his mother Vahide who is the owner of a major corporation in Turkey, find Ruzgar after long efforts. So Kemal goes to Bosnia to bring Rüzgar back. But Rüzgar is still heartbroken. He can’t live like this so he runs away after a family dinner without telling anyone. He finds himself in Foça after meeting with a taxi driver. Meanwhile Zeynep is about to marry her childhood love Kutay. There’s only a week until the wedding, while the preparations continue Zeynep learns that she was cheated on.  She goes to Foça to her most dear grandpa Muammer and aunt Ayla. However, she faints just before she could get there, right in front of Rüzgar’s house. She hides her true identity from everyone except Rüzgar. Afterwards, Zeynep is forced to see Kutay as her best friend Hande is getting married. Sibel, Başak and Hande think up a plan. But they need Rüzgar to make this plan work. Rüzgar can’t say no to this after hearing what happened to Zeynep.  So a game  of hearts begins between Zeynep and Rüzgar.</episode_description>
-    <season_number></season_number>
-    <episode_number>01</episode_number>
-    <Year>2016</Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="20:25">
-    <local_title lang="eng">Coming to America</local_title>
-    <original_title lang="en">Coming to America</original_title>
-    <local_episode_title lang="eng"></local_episode_title>
-    <original_episode_title lang="en">Coming to America</original_episode_title>
-    <description lang="eng">Movie</description>
-    <description lang="en">Movie</description>
-    <episode_description lang="eng">An extremely pampered African prince travels to Queens, New York and goes undercover to find a wife that he can respect for her intelligence and strong will.</episode_description>
-    <episode_description lang="en">An extremely pampered African prince travels to Queens, New York and goes undercover to find a wife that he can respect for her intelligence and strong will.</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="22:26">
-    <local_title lang="eng">Shamba Shape Up</local_title>
-    <original_title lang="en">Shamba Shape Up</original_title>
-    <local_episode_title lang="eng">Dairy, Soil test, Banana, Crop Rotation and Vegetables</local_episode_title>
-    <original_episode_title lang="en">Dairy, Soil test, Banana, Crop Rotation and Vegetables</original_episode_title>
+  <programme date="2023/12/20" time="19:00">
+    <local_title lang="eng">Shamba Shape Up Series 1</local_title>
+    <original_title lang="en">Shamba Shape Up Series 1</original_title>
+    <local_episode_title lang="eng">Shamba Shape Up Series 1 - Ep 3: Tomatoes, Cow Care, Chickens</local_episode_title>
+    <original_episode_title lang="en">Shamba Shape Up Series 1-Ep 3</original_episode_title>
     <description lang="eng">Farming</description>
-    <description lang="en">Farming</description>
-    <episode_description lang="eng">Today we’re in Kirangira Village, Mukono central and we’re meeting with farmer  Dorothy Nakalembe.
-Dorothy’s a very experienced lady who’s been farming since 1980. She has a 3-acre farm where she grows bananas, maize and vegetables .She also has cows but she needs expert advice on them and of course for her vegetables.
-This is one farmer who knows what she wants!
-
-In this farm we are learning about:
-
-            1. Dairy breeding, nutrition and hygiene
-            2. What to plant after Clearing Banana plantation
-            3. Soil testing on banana plantation
-            4.  Vegetables transplanting and good farming practices</episode_description>
-    <episode_description lang="en">Today we’re in Kirangira Village, Mukono central and we’re meeting with farmer  Dorothy Nakalembe.</episode_description>
-    <season_number>S01</season_number>
-    <episode_number>01</episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/20" time="22:55">
-    <local_title lang="eng">Dr. Myles Monroe</local_title>
-    <original_title lang="en">Dr Myles Monroe</original_title>
-    <local_episode_title lang="eng">How to Make your Marriage Work</local_episode_title>
-    <original_episode_title lang="en">How to Make your Marriage Work</original_episode_title>
-    <description lang="eng">Motivational/Religion</description>
-    <description lang="en">Motivational/Religion</description>
-    <episode_description lang="eng">How to Make your Marriage Work</episode_description>
-    <episode_description lang="en">How to Make your Marriage Work</episode_description>
+    <description lang="en">Agriculture</description>
+    <episode_description lang="eng">Meet Jeremiah Who inherited his grandfather's farm with all its problems. Jeremiah learns how to manage his tomatoes, dairy &amp; poultry.  </episode_description>
+    <episode_description lang="en">Meet Jeremiah Who inherited his grandfather's farm with all its problems. Jeremiah learns how to manage his tomatoes, dairy &amp; poultry.  </episode_description>
     <season_number></season_number>
     <episode_number></episode_number>
     <Year></Year>
@@ -955,15 +311,11 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/20" time="23:55">
-    <local_title lang="eng">Real Engineering</local_title>
-    <original_title lang="en">Real Engineering</original_title>
-    <local_episode_title lang="eng">The Insane Engineering of James Webb Telescope</local_episode_title>
-    <original_episode_title lang="en">The Insane Engineering of James Webb Telescope</original_episode_title>
-    <description lang="eng">Documentary</description>
-    <description lang="en">Documentary</description>
-    <episode_description lang="eng">The Insane Engineering of James Webb Telescope</episode_description>
-    <episode_description lang="en">The Insane Engineering of James Webb Telescope</episode_description>
+  <programme date="2023/12/20" time="19:26">
+    <original_title lang="en">TED Talk</original_title>
+    <original_episode_title lang="en">We should all be feminists   Chimamanda Ngozi Adichie</original_episode_title>
+    <description lang="en">Motivational</description>
+    <episode_description lang="en">Chimamanda Ngozi Adichie a renowned Nigerian novelist was born in Nigeria in 1977. She grew up in the university town of Nsukka, Enugu State where she attended primary and secondary schools, and briefly studied Medicine and Pharmacy. She then moved to the United States to attend college, graduating summa cum laude from Eastern Connecticut State University with a major in Communication and a minor in Political Science. She holds a Masters degree in Creative Writing from Johns Hopkins and a Masters degree in African Studies from Yale University. She was a 2005-2006 Hodder Fellow at Princeton, where she taught introductory fiction. Chimamanda is the author of Half of a Yellow Sun, which won the 2007 Orange Prize For Fiction; and Purple Hibiscus, which won the 2005 Best First Book Commonwealth Writers' Prize and the 2004 Debut Fiction Hurston/Wright Legacy Award. In 2009, her collection of short stories, The Thing around Your Neck was published. She was named one of the twenty most important fiction writers today under 40 years old by The New Yorker and was recently the guest speaker at the 2012 annual commonwealth lecture. She featured in the April 2012 edition of Time Magazine, celebrated as one of the 100 Most Influential People in the World. She currently divides her time between the United States and Nigeria.</episode_description>
     <season_number></season_number>
     <episode_number></episode_number>
     <Year></Year>
@@ -973,33 +325,11 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="00:27">
-    <local_title lang="eng">African Safari</local_title>
-    <original_title lang="en">African Safari</original_title>
-    <local_episode_title lang="eng">African Safari</local_episode_title>
-    <original_episode_title lang="en">African Safari</original_episode_title>
-    <description lang="eng">Documentary</description>
-    <description lang="en">Docuemntary</description>
-    <episode_description lang="eng">Filmmaker Ben Stassen and cinematographer Sean MacLeod Phillips return to southern Africa for a whole new adventure. Animal behaviorist Kevin Richardson - "The Lion Whisperer" - guides audiences on an extraordinary journey across the most spectacular sceneries on earth: from the picturesque coastal desert dunes of Namibia, through the natural wonder of the Ngorongoro crater and then on to the breathtaking Victoria Falls. The film delivers startlingly close encounters with lions, cheetahs, leopards, black rhinoceros and elephants. This is the trek of a lifetime, so get ready to be immersed in the real wild Africa - where there are no fences for your protection</episode_description>
-    <episode_description lang="en">Filmmaker Ben Stassen and cinematographer Sean MacLeod Phillips return to southern Africa for a whole new adventure. Animal behaviorist Kevin Richardson - "The Lion Whisperer" - guides audiences on an extraordinary journey across the most spectacular sceneries on earth: from the picturesque coastal desert dunes of Namibia, through the natural wonder of the Ngorongoro crater and then on to the breathtaking Victoria Falls. The film delivers startlingly close encounters with lions, cheetahs, leopards, black rhinoceros and elephants. This is the trek of a lifetime, so get ready to be immersed in the real wild Africa - where there are no fences for your protection</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year>2013</Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2023/12/21" time="01:59">
-    <local_title lang="eng">SCBC Panorama</local_title>
-    <original_title lang="en">SCBC Panorama</original_title>
-    <local_episode_title lang="eng">Conquering My Messy Mind Mental Health</local_episode_title>
-    <original_episode_title lang="en">Conquering My Messy Mind Mental Health</original_episode_title>
-    <description lang="eng">Health &amp; Wellness</description>
-    <description lang="en">Health &amp; Wellness</description>
-    <episode_description lang="eng">Conquering My Messy Mind Mental Health</episode_description>
-    <episode_description lang="en">Conquering My Messy Mind Mental Health</episode_description>
+  <programme date="2023/12/20" time="20:00">
+    <original_title lang="en">Heartbeat</original_title>
+    <original_episode_title lang="en">Heartbeat Episode 3</original_episode_title>
+    <description lang="en">series</description>
+    <episode_description lang="en">Heartbeat Episode 3</episode_description>
     <season_number></season_number>
     <episode_number></episode_number>
     <Year></Year>
@@ -1009,17 +339,17 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="02:27">
-    <local_title lang="eng">The Fresh Prince of Bel-Air</local_title>
-    <original_title lang="en">The Fresh Prince of Bel Air</original_title>
-    <local_episode_title lang="eng">S1.E1 ∙ The Fresh Prince Project</local_episode_title>
-    <original_episode_title lang="en">The Fresh Prince Project</original_episode_title>
-    <description lang="eng">Comedy</description>
-    <description lang="en">Comedy</description>
-    <episode_description lang="eng">A streetwise teenager is sent by his mother to live with wealthy relatives in an upper-class California neighborhood, where he must adjust to a new lifestyle.</episode_description>
-    <episode_description lang="en">A streetwise teenager is sent by his mother to live with wealthy relatives in an upper-class California neighborhood, where he must adjust to a new lifestyle.</episode_description>
-    <season_number>S01</season_number>
-    <episode_number>01</episode_number>
+  <programme date="2023/12/20" time="20:45">
+    <local_title lang="eng">TED Talk</local_title>
+    <original_title lang="en">TED Talk</original_title>
+    <local_episode_title lang="eng">For survivors of Ebola, the crisis isn't over | Soka Moses</local_episode_title>
+    <original_episode_title lang="en">For survivors of Ebola, the crisis isn't over</original_episode_title>
+    <description lang="eng">Motivational</description>
+    <description lang="en">Motivational</description>
+    <episode_description lang="eng">n 2014, as a newly trained physician, Soka Moses took on one of the toughest jobs in the world: treating highly contagious patients at the height of Liberia's Ebola outbreak. In this intense, emotional talk, he details what he saw on the frontlines of the crisis -- and reveals the challenges and stigma that thousands of survivors still face.</episode_description>
+    <episode_description lang="en">n 2014, as a newly trained physician, Soka Moses took on one of the toughest jobs in the world: treating highly contagious patients at the height of Liberia's Ebola outbreak. In this intense, emotional talk, he details what he saw on the frontlines of the crisis -- and reveals the challenges and stigma that thousands of survivors still face.</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
     <Year></Year>
     <country></country>
     <director></director>
@@ -1027,25 +357,21 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="02:58">
-    <local_title lang="eng">African Safari</local_title>
-    <original_title lang="en">African Safari</original_title>
-    <local_episode_title lang="eng">African Safari</local_episode_title>
-    <original_episode_title lang="en">African Safari</original_episode_title>
-    <description lang="eng">Documentary</description>
-    <description lang="en">Docuemntary</description>
-    <episode_description lang="eng">Filmmaker Ben Stassen and cinematographer Sean MacLeod Phillips return to southern Africa for a whole new adventure. Animal behaviorist Kevin Richardson - "The Lion Whisperer" - guides audiences on an extraordinary journey across the most spectacular sceneries on earth: from the picturesque coastal desert dunes of Namibia, through the natural wonder of the Ngorongoro crater and then on to the breathtaking Victoria Falls. The film delivers startlingly close encounters with lions, cheetahs, leopards, black rhinoceros and elephants. This is the trek of a lifetime, so get ready to be immersed in the real wild Africa - where there are no fences for your protection</episode_description>
-    <episode_description lang="en">Filmmaker Ben Stassen and cinematographer Sean MacLeod Phillips return to southern Africa for a whole new adventure. Animal behaviorist Kevin Richardson - "The Lion Whisperer" - guides audiences on an extraordinary journey across the most spectacular sceneries on earth: from the picturesque coastal desert dunes of Namibia, through the natural wonder of the Ngorongoro crater and then on to the breathtaking Victoria Falls. The film delivers startlingly close encounters with lions, cheetahs, leopards, black rhinoceros and elephants. This is the trek of a lifetime, so get ready to be immersed in the real wild Africa - where there are no fences for your protection</episode_description>
+  <programme date="2023/12/20" time="21:00">
+    <original_title lang="en">The Nutty Professor</original_title>
+    <original_episode_title lang="en">The Nutty Professor</original_episode_title>
+    <description lang="en">Movie</description>
+    <episode_description lang="en">Grossly overweight yet good-hearted professor Sherman Klump takes a special chemical that turns him into the slim but obnoxious Buddy Love.</episode_description>
     <season_number></season_number>
     <episode_number></episode_number>
-    <Year>2013</Year>
+    <Year></Year>
     <country></country>
     <director></director>
     <lead_actors></lead_actors>
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="04:24">
+  <programme date="2023/12/20" time="23:01">
     <local_title lang="eng">Heart Beat</local_title>
     <original_title lang="en">Heart Beat</original_title>
     <local_episode_title lang="eng">Episode 01</local_episode_title>
@@ -1063,7 +389,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="05:10">
+  <programme date="2023/12/20" time="23:47">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -1077,7 +403,172 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="05:28">
+  <programme date="2023/12/21" time="00:06">
+    <local_title lang="eng">Shamba Shape Up Series 1</local_title>
+    <original_title lang="en">Shamba Shape Up Series 1</original_title>
+    <local_episode_title lang="eng">Shamba Shape Up Series 1 - Ep 3: Tomatoes, Cow Care, Chickens</local_episode_title>
+    <original_episode_title lang="en">Shamba Shape Up Series 1-Ep 3</original_episode_title>
+    <description lang="eng">Farming</description>
+    <description lang="en">Agriculture</description>
+    <episode_description lang="eng">Meet Jeremiah Who inherited his grandfather's farm with all its problems. Jeremiah learns how to manage his tomatoes, dairy &amp; poultry.  </episode_description>
+    <episode_description lang="en">Meet Jeremiah Who inherited his grandfather's farm with all its problems. Jeremiah learns how to manage his tomatoes, dairy &amp; poultry.  </episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
+  <programme date="2023/12/21" time="00:36">
+    <original_title lang="en">Heartbeat</original_title>
+    <original_episode_title lang="en">Heartbeat Episode 3</original_episode_title>
+    <description lang="en">series</description>
+    <episode_description lang="en">Heartbeat Episode 3</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
+  <programme date="2023/12/21" time="01:21">
+    <local_title lang="eng">Ted Talk</local_title>
+    <original_title lang="en">TEDTalk </original_title>
+    <local_episode_title lang="eng">The thrilling potential for off-grid solar energy | Amar Inamdar</local_episode_title>
+    <original_episode_title lang="en">The thrilling potential for off-grid solar energy | Amar Inamdar</original_episode_title>
+    <description lang="eng">Motivational</description>
+    <description lang="en">Motivational</description>
+    <episode_description lang="eng">There's an energy revolution happening in villages and towns across Africa -- off-grid solar energy is becoming a viable alternative to traditional electricity systems. In a bold talk about a true leapfrog moment, Amar Inamdar introduces us to proud owners of off-grid solar kits -- and explains how this technology has the opportunity to meet two extraordinary goals: energy access for all and a low-carbon future. "Every household a proud producer as well as consumer of energy," Inamdar says. "That's the democracy of energy." (Followed by a brief Q&amp;A with TED Curator Chris Anderson)
+</episode_description>
+    <episode_description lang="en">There's an energy revolution happening in villages and towns across Africa -- off-grid solar energy is becoming a viable alternative to traditional electricity systems. In a bold talk about a true leapfrog moment, Amar Inamdar introduces us to proud owners of off-grid solar kits -- and explains how this technology has the opportunity to meet two extraordinary goals: energy access for all and a low-carbon future. "Every household a proud producer as well as consumer of energy," Inamdar says. "That's the democracy of energy." (Followed by a brief Q&amp;A with TED Curator Chris Anderson)</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
+  <programme date="2023/12/21" time="01:36">
+    <original_title lang="en">Real Engineering</original_title>
+    <original_episode_title lang="en">The Insane Engineering of the 787</original_episode_title>
+    <description lang="en">Science</description>
+    <episode_description lang="en">The Insane Engineering of the 787.mp4</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
+  <programme date="2023/12/21" time="02:06">
+    <local_title lang="eng">The Fresh Prince of Bel-Air</local_title>
+    <original_title lang="en">The Fresh Prince of Bel-Air</original_title>
+    <local_episode_title lang="eng">S1.E2 ∙ Bang the Drum, Ashley</local_episode_title>
+    <original_episode_title lang="en">S1.E2 ∙ Bang the Drum, Ashley</original_episode_title>
+    <description lang="eng">Comedy</description>
+    <description lang="en">Comedy</description>
+    <episode_description lang="eng">After Ashley reveals to him that she does not enjoy playing the violin he takes her to and trades her violin in for a drum set. Then reveals that he has already hired Ashley a teacher. Jazz.</episode_description>
+    <episode_description lang="en">After Ashley reveals to him that she does not enjoy playing the violin he takes her to and trades her violin in for a drum set. Then reveals that he has already hired Ashley a teacher. Jazz.</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
+  <programme date="2023/12/21" time="02:36">
+    <local_title lang="eng">Heartbeat</local_title>
+    <original_title lang="en">Heartbeat</original_title>
+    <local_episode_title lang="eng">S1.E2 ∙ 2.Bölüm</local_episode_title>
+    <original_episode_title lang="en">Heartbeat Episode 2</original_episode_title>
+    <description lang="eng">Series</description>
+    <description lang="en">Series</description>
+    <episode_description lang="eng">Heartbeat</episode_description>
+    <episode_description lang="en">Heartbeat</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
+  <programme date="2023/12/21" time="03:21">
+    <original_title lang="en">TED Talk</original_title>
+    <original_episode_title lang="en">TED Talk - How Africa can use its traditional knowledge to make progress   Chika Ezeanya-Esiobu</original_episode_title>
+    <description lang="en">Motivational</description>
+    <episode_description lang="en">Chika Ezeanya-Esiobu wants to see Africans unleash their suppressed creative and innovative energies by acknowledging the significance of their indigenous, authentic knowledge. In this powerful talk, she shares examples of untapped, traditional African knowledge in agriculture and policy-making, calling on Africans to make progress by validating and dignifying their reality.</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
+  <programme date="2023/12/21" time="03:36">
+    <local_title lang="eng">African Safari</local_title>
+    <original_title lang="en">African Safari</original_title>
+    <local_episode_title lang="eng">African Safari</local_episode_title>
+    <original_episode_title lang="en">African Safari</original_episode_title>
+    <description lang="eng">Documentary</description>
+    <description lang="en">Docuemntary</description>
+    <episode_description lang="eng">Filmmaker Ben Stassen and cinematographer Sean MacLeod Phillips return to southern Africa for a whole new adventure. Animal behaviorist Kevin Richardson - "The Lion Whisperer" - guides audiences on an extraordinary journey across the most spectacular sceneries on earth: from the picturesque coastal desert dunes of Namibia, through the natural wonder of the Ngorongoro crater and then on to the breathtaking Victoria Falls. The film delivers startlingly close encounters with lions, cheetahs, leopards, black rhinoceros and elephants. This is the trek of a lifetime, so get ready to be immersed in the real wild Africa - where there are no fences for your protection</episode_description>
+    <episode_description lang="en">Filmmaker Ben Stassen and cinematographer Sean MacLeod Phillips return to southern Africa for a whole new adventure. Animal behaviorist Kevin Richardson - "The Lion Whisperer" - guides audiences on an extraordinary journey across the most spectacular sceneries on earth: from the picturesque coastal desert dunes of Namibia, through the natural wonder of the Ngorongoro crater and then on to the breathtaking Victoria Falls. The film delivers startlingly close encounters with lions, cheetahs, leopards, black rhinoceros and elephants. This is the trek of a lifetime, so get ready to be immersed in the real wild Africa - where there are no fences for your protection</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year>2013</Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
+  <programme date="2023/12/21" time="05:02">
+    <local_title lang="eng">Heartbeat</local_title>
+    <original_title lang="en">Heartbeat</original_title>
+    <local_episode_title lang="eng">S1.E2 ∙ 2.Bölüm</local_episode_title>
+    <original_episode_title lang="en">Heartbeat Episode 2</original_episode_title>
+    <description lang="eng">Series</description>
+    <description lang="en">Series</description>
+    <episode_description lang="eng">Heartbeat</episode_description>
+    <episode_description lang="en">Heartbeat</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
+  <programme date="2023/12/21" time="05:47">
+    <original_title lang="en" />
+    <original_episode_title lang="en"></original_episode_title>
+    <description lang="en"></description>
+    <episode_description lang="en"></episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
+  <programme date="2023/12/21" time="06:00">
     <local_title lang="eng">Walk at Home</local_title>
     <original_title lang="en">Walk at Home</original_title>
     <local_episode_title lang="eng">2 Mile Walk  Walk With A Doc</local_episode_title>
@@ -1095,7 +586,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="06:00">
+  <programme date="2023/12/21" time="06:32">
     <local_title lang="eng">Denver, the Last Dinosaur</local_title>
     <original_title lang="en">Denver, the Last Dinosaur</original_title>
     <local_episode_title lang="eng">S1.E1 ∙ Denver, the Last Dinosaur</local_episode_title>
@@ -1113,7 +604,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="06:48">
+  <programme date="2023/12/21" time="07:19">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -1127,7 +618,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="06:55">
+  <programme date="2023/12/21" time="07:27">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -1141,7 +632,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="07:01">
+  <programme date="2023/12/21" time="07:33">
     <local_title lang="eng">Shamba Shape Up Series 1</local_title>
     <original_title lang="en">Shamba Shape Up Series 1</original_title>
     <local_episode_title lang="eng">Shamba Shape Up Series 1-Ep 2</local_episode_title>
@@ -1168,7 +659,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="07:31">
+  <programme date="2023/12/21" time="08:03">
     <local_title lang="eng">Africa's Food Fest</local_title>
     <original_title lang="en">African Food Fest!</original_title>
     <local_episode_title lang="eng">Kenyas BIGGEST MARKET STREET FOOD </local_episode_title>
@@ -1186,7 +677,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="08:02">
+  <programme date="2023/12/21" time="08:34">
     <original_title lang="en">The Legacy Of Purpose</original_title>
     <original_episode_title lang="en">The Legacy Of Purpose</original_episode_title>
     <description lang="en">Motivational</description>
@@ -1200,7 +691,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="08:31">
+  <programme date="2023/12/21" time="09:03">
     <local_title lang="eng">Real Engineering</local_title>
     <original_title lang="en">Real Engineering</original_title>
     <local_episode_title lang="eng">The Insane Engineering of the Space Shuttle</local_episode_title>
@@ -1218,7 +709,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="09:01">
+  <programme date="2023/12/21" time="09:33">
     <local_title lang="eng">The Fresh Prince of Bel-Air</local_title>
     <original_title lang="en">The Fresh Prince of Bel-Air</original_title>
     <local_episode_title lang="eng">S1.E2 ∙ Bang the Drum, Ashley</local_episode_title>
@@ -1236,7 +727,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="09:31">
+  <programme date="2023/12/21" time="10:02">
     <local_title lang="eng">Heart Beat</local_title>
     <original_title lang="en">Heart Beat</original_title>
     <local_episode_title lang="eng">Episode 01</local_episode_title>
@@ -1254,7 +745,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="10:17">
+  <programme date="2023/12/21" time="10:49">
     <local_title lang="en">Africa News</local_title>
     <original_title lang="en">Africa News</original_title>
     <local_episode_title lang="en"></local_episode_title>
@@ -1272,7 +763,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="11:18">
+  <programme date="2023/12/21" time="11:49">
     <local_title lang="eng">Coming to America</local_title>
     <original_title lang="en">Coming to America</original_title>
     <local_episode_title lang="eng"></local_episode_title>
@@ -1290,15 +781,15 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="13:11">
+  <programme date="2023/12/21" time="13:43">
     <local_title lang="eng">America's Funniest Home Videos</local_title>
-    <original_title lang="en" />
+    <original_title lang="en">America's Funniest Home Videos</original_title>
     <local_episode_title lang="eng">America's Funniest Home Videos</local_episode_title>
-    <original_episode_title lang="en"></original_episode_title>
+    <original_episode_title lang="en">America's Funniest Home Videos</original_episode_title>
     <description lang="eng">Variety</description>
-    <description lang="en"></description>
+    <description lang="en">Variety</description>
     <episode_description lang="eng">America's Funniest Home Videos</episode_description>
-    <episode_description lang="en"></episode_description>
+    <episode_description lang="en">America's Funniest Home Videos</episode_description>
     <season_number></season_number>
     <episode_number></episode_number>
     <Year></Year>
@@ -1308,7 +799,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="14:11">
+  <programme date="2023/12/21" time="14:43">
     <local_title lang="eng">Prehistoric Planet</local_title>
     <original_title lang="en">Prehistoric Planet</original_title>
     <local_episode_title lang="eng">S1.E2 ∙ Deserts</local_episode_title>
@@ -1327,7 +818,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="14:52">
+  <programme date="2023/12/21" time="15:24">
     <local_title lang="eng">Dr. Myles Monroe</local_title>
     <original_title lang="en">Dr Myles Monroe</original_title>
     <local_episode_title lang="eng">How to Make your Marriage Work</local_episode_title>
@@ -1345,7 +836,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="15:52">
+  <programme date="2023/12/21" time="16:24">
     <local_title lang="en">News Hour</local_title>
     <original_title lang="en">News Hour</original_title>
     <local_episode_title lang="en"></local_episode_title>
@@ -1363,7 +854,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="16:52">
+  <programme date="2023/12/21" time="17:24">
     <local_title lang="eng">Amba Farmers Voice </local_title>
     <original_title lang="en">Amba Farmers Voice </original_title>
     <local_episode_title lang="eng">Amba Farmers Voice </local_episode_title>
@@ -1381,7 +872,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="17:52">
+  <programme date="2023/12/21" time="18:24">
     <local_title lang="eng">Heartbeat</local_title>
     <original_title lang="en">Heartbeat</original_title>
     <local_episode_title lang="eng">S1.E2 ∙ 2.Bölüm</local_episode_title>
@@ -1399,7 +890,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="18:53">
+  <programme date="2023/12/21" time="19:25">
     <local_title lang="eng">White Christmas</local_title>
     <original_title lang="en">White Christmas</original_title>
     <local_episode_title lang="eng">White Christmas</local_episode_title>
@@ -1417,7 +908,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="20:53">
+  <programme date="2023/12/21" time="21:25">
     <local_title lang="eng">The Leaderless Revolution</local_title>
     <original_title lang="en">The Leaderless Revolution</original_title>
     <local_episode_title lang="eng">The Leaderless Revolution</local_episode_title>
@@ -1435,7 +926,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="22:17">
+  <programme date="2023/12/21" time="22:49">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -1449,7 +940,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="22:23">
+  <programme date="2023/12/21" time="22:54">
     <local_title lang="eng">Shamba Shape Up Series 1</local_title>
     <original_title lang="en">Shamba Shape Up Series 1</original_title>
     <local_episode_title lang="eng">Shamba Shape Up Series 1-Ep 2</local_episode_title>
@@ -1476,7 +967,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="22:52">
+  <programme date="2023/12/21" time="23:24">
     <local_title lang="eng">Africa's Food Fest</local_title>
     <original_title lang="en">African Food Fest!</original_title>
     <local_episode_title lang="eng">Kenyas BIGGEST MARKET STREET FOOD </local_episode_title>
@@ -1494,7 +985,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="23:24">
+  <programme date="2023/12/21" time="23:56">
     <original_title lang="en">The Legacy Of Purpose</original_title>
     <original_episode_title lang="en">The Legacy Of Purpose</original_episode_title>
     <description lang="en">Motivational</description>
@@ -1508,7 +999,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/21" time="23:53">
+  <programme date="2023/12/22" time="00:24">
     <local_title lang="eng">Real Engineering</local_title>
     <original_title lang="en">Real Engineering</original_title>
     <local_episode_title lang="eng">The Insane Engineering of the Space Shuttle</local_episode_title>
@@ -1526,7 +1017,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/22" time="00:22">
+  <programme date="2023/12/22" time="00:54">
     <local_title lang="eng">The Fresh Prince of Bel-Air</local_title>
     <original_title lang="en">The Fresh Prince of Bel-Air</original_title>
     <local_episode_title lang="eng">S1.E2 ∙ Bang the Drum, Ashley</local_episode_title>
@@ -1544,7 +1035,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/22" time="00:52">
+  <programme date="2023/12/22" time="01:24">
     <local_title lang="eng">Heart Beat</local_title>
     <original_title lang="en">Heart Beat</original_title>
     <local_episode_title lang="eng">Episode 01</local_episode_title>
@@ -1562,11 +1053,11 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/22" time="01:39">
-    <original_title lang="en" />
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="en"></description>
-    <episode_description lang="en"></episode_description>
+  <programme date="2023/12/22" time="02:11">
+    <original_title lang="en">TED Talk</original_title>
+    <original_episode_title lang="en">TED Talk - How Africa can use its traditional knowledge to make progress   Chika Ezeanya-Esiobu</original_episode_title>
+    <description lang="en">Motivational</description>
+    <episode_description lang="en">Chika Ezeanya-Esiobu wants to see Africans unleash their suppressed creative and innovative energies by acknowledging the significance of their indigenous, authentic knowledge. In this powerful talk, she shares examples of untapped, traditional African knowledge in agriculture and policy-making, calling on Africans to make progress by validating and dignifying their reality.</episode_description>
     <season_number></season_number>
     <episode_number></episode_number>
     <Year></Year>
@@ -1576,7 +1067,7 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/22" time="01:53">
+  <programme date="2023/12/22" time="02:25">
     <local_title lang="eng">Heartbeat</local_title>
     <original_title lang="en">Heartbeat</original_title>
     <local_episode_title lang="eng">S1.E2 ∙ 2.Bölüm</local_episode_title>
@@ -1594,15 +1085,15 @@ In this farm we are learning about:
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2023/12/22" time="02:54">
+  <programme date="2023/12/22" time="03:26">
     <local_title lang="eng">America's Funniest Home Videos</local_title>
-    <original_title lang="en" />
+    <original_title lang="en">America's Funniest Home Videos</original_title>
     <local_episode_title lang="eng">America's Funniest Home Videos</local_episode_title>
-    <original_episode_title lang="en"></original_episode_title>
+    <original_episode_title lang="en">America's Funniest Home Videos</original_episode_title>
     <description lang="eng">Variety</description>
-    <description lang="en"></description>
+    <description lang="en">Variety</description>
     <episode_description lang="eng">America's Funniest Home Videos</episode_description>
-    <episode_description lang="en"></episode_description>
+    <episode_description lang="en">America's Funniest Home Videos</episode_description>
     <season_number></season_number>
     <episode_number></episode_number>
     <Year></Year>
