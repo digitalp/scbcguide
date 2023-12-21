@@ -51,11 +51,15 @@ document.addEventListener('DOMContentLoaded', function() {
         const duration = calculateDuration(startTime, endTime);
         const formattedStartTime = formatTime(startTime);
         const formattedEndTime = formatTime(endTime);
+        const progress = calculateProgress(startTime, endTime);
+        const progressBar = `<div class="progress-bar" style="width: ${progress}%;"></div>`;
         const desc = program.getElementsByTagName('desc')[0]?.textContent || 'No description available';
 
         const programElement = document.createElement('div');
         programElement.classList.add('program');
-        programElement.innerHTML = `<h3>${title}</h3><p>${formattedStartTime} - ${formattedEndTime} (Duration: ${duration} mins)</p>`;
+        programElement.innerHTML = `<h3>${title}</h3>
+                                    <p>${formattedStartTime} - ${formattedEndTime} (Duration: ${duration} mins)</p>
+                                    <div class="progress">${progressBar}</div>`;
         programElement.addEventListener('click', function() {
             programDetails.innerHTML = `<h2>${title}</h2><p>${desc}</p>`;
             programModal.style.display = "block";
@@ -70,6 +74,19 @@ document.addEventListener('DOMContentLoaded', function() {
     function calculateDuration(startTime, endTime) {
         const difference = endTime - startTime;
         return Math.round(difference / 60000); // Convert milliseconds to minutes
+    }
+
+    function calculateProgress(startTime, endTime) {
+        const currentTime = new Date();
+        if (currentTime < startTime) {
+            return 0; // Program hasn't started yet
+        } else if (currentTime > endTime) {
+            return 100; // Program has finished
+        } else {
+            const totalDuration = endTime - startTime;
+            const elapsed = currentTime - startTime;
+            return (elapsed / totalDuration) * 100;
+        }
     }
 
     closeModal.addEventListener('click', function() {
