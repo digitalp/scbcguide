@@ -1,5 +1,6 @@
 import os
 import time
+from datetime import datetime
 
 def get_file_properties(file_path):
     """Retrieve size and modification date of a file."""
@@ -10,7 +11,7 @@ def get_file_properties(file_path):
         return None, None
 
 def monitor_file_changes(file_path, check_interval=5):
-    """Monitor file for changes in size and modification date."""
+    """Monitor file for changes in size and modification date, and print date and time of change."""
     last_size, last_modified = get_file_properties(file_path)
 
     while True:
@@ -21,7 +22,8 @@ def monitor_file_changes(file_path, check_interval=5):
             break
 
         if current_size != last_size or current_modified != last_modified:
-            print(f"Change detected in '{file_path}'.")
+            change_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            print(f"Change detected in '{file_path}' at {change_time}.")
             print("Running convert.py...")
             os.system('python c:\\epg\\convert.py')
 
