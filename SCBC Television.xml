@@ -1,84 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <channel name="SCBC Television">
-  <programme date="2024/01/13" time="19:35">
-    <original_title lang="en">Dr Myles Munroe</original_title>
-    <original_episode_title lang="en">Life Is Not a Game</original_episode_title>
-    <description lang="en">Motivational</description>
-    <episode_description lang="en">In this teaching, Dr. Myles Munroe discusses the effects of gambling and gaming on society. In particular, he details the effects, both positive and negative, gaming could have over his home nation The Bahamas as it was going through a national decision on whether to legalize gaming and gambling for the citizens of The Bahamas.</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2024/01/13" time="20:45">
-    <local_title lang="en">Africa Cup of Nations 2023</local_title>
-    <original_title lang="en">Africa Cup of Nations 2023</original_title>
-    <local_episode_title lang="en"></local_episode_title>
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="en"></description>
-    <description lang="en"></description>
-    <episode_description lang="en"></episode_description>
-    <episode_description lang="en"></episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2024/01/13" time="22:45">
-    <original_title lang="en">Real Engineering</original_title>
-    <original_episode_title lang="en">The Insane Engineering of the 787</original_episode_title>
-    <description lang="en">Science</description>
-    <episode_description lang="en">The Insane Engineering of the 787.mp4</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2024/01/13" time="23:15">
-    <local_title lang="eng">Music</local_title>
-    <original_title lang="en">Music</original_title>
-    <local_episode_title lang="eng">Music</local_episode_title>
-    <original_episode_title lang="en">Music</original_episode_title>
-    <description lang="eng">Music</description>
-    <description lang="en"></description>
-    <episode_description lang="eng">Music</episode_description>
-    <episode_description lang="en">African Music</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2024/01/14" time="06:41">
-    <original_title lang="en">The Legacy Of Purpose </original_title>
-    <original_episode_title lang="en">The Legacy Of Purpose - Ep. 04</original_episode_title>
-    <description lang="en">Motivational</description>
-    <episode_description lang="en">On this episode of The Legacy of Purpose we feature MEL2017 guest presenter, Ms. Phylicia Fanta. Phylicia tells us a little about herself and what we should expect from her presentation at MEL2017.</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2024/01/14" time="07:10">
+  <programme date="2024/01/14" time="06:00">
     <original_title lang="en">Dr. Myles Munroe</original_title>
     <original_episode_title lang="en">Kingdom Citizenship Success Laws of Marriage | Dr. Myles Munroe</original_episode_title>
     <description lang="en">Motivational</description>
@@ -92,7 +14,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="08:11">
+  <programme date="2024/01/14" time="07:01">
     <original_title lang="en">Superbook</original_title>
     <original_episode_title lang="en">S1.E1 ∙ In the Beginning</original_episode_title>
     <description lang="en">Kids</description>
@@ -106,7 +28,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="08:38">
+  <programme date="2024/01/14" time="07:28">
     <original_title lang="en">Superbook</original_title>
     <original_episode_title lang="en">S1.E2 ∙ The Test!</original_episode_title>
     <description lang="en">Kids</description>
@@ -120,7 +42,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="09:06">
+  <programme date="2024/01/14" time="07:56">
     <local_title lang="eng">Music</local_title>
     <original_title lang="en">Music</original_title>
     <local_episode_title lang="eng">Music</local_episode_title>
@@ -138,7 +60,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="09:09">
+  <programme date="2024/01/14" time="08:00">
     <local_title lang="en">TBN UK LIVE</local_title>
     <original_title lang="en">TBN UK LIVE</original_title>
     <local_episode_title lang="en"></local_episode_title>
@@ -156,7 +78,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="11:10">
+  <programme date="2024/01/14" time="10:00">
     <local_title lang="eng">Music</local_title>
     <original_title lang="en">Music</original_title>
     <local_episode_title lang="eng">Music</local_episode_title>
@@ -174,7 +96,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="11:40">
+  <programme date="2024/01/14" time="10:30">
     <original_title lang="en">Real Engineering</original_title>
     <original_episode_title lang="en">The Insane Engineering of Orbit</original_episode_title>
     <description lang="en">Documentary</description>
@@ -188,7 +110,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="12:10">
+  <programme date="2024/01/14" time="11:00">
     <original_title lang="en">Some Mothers Do 'Ave 'Em</original_title>
     <original_episode_title lang="en">S1.E1 ∙ Getting a Job</original_episode_title>
     <description lang="en">Comedy</description>
@@ -202,7 +124,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="12:39">
+  <programme date="2024/01/14" time="11:29">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -216,7 +138,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="12:40">
+  <programme date="2024/01/14" time="11:30">
     <original_title lang="en">PAW Patrol: Season 4, Episode 5</original_title>
     <original_episode_title lang="en">PAW Patrol: Season 4, Episode 5</original_episode_title>
     <description lang="en">Kids</description>
@@ -230,7 +152,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="13:03">
+  <programme date="2024/01/14" time="11:54">
     <original_title lang="en">Ego Episode 1</original_title>
     <original_episode_title lang="en">Ego Episode 1</original_episode_title>
     <description lang="en">Series</description>
@@ -244,7 +166,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="15:14">
+  <programme date="2024/01/14" time="14:05">
     <original_title lang="en">Superbook</original_title>
     <original_episode_title lang="en">S1.E1 ∙ In the Beginning</original_episode_title>
     <description lang="en">Kids</description>
@@ -258,7 +180,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="15:41">
+  <programme date="2024/01/14" time="14:32">
     <original_title lang="en">Superbook</original_title>
     <original_episode_title lang="en">S1.E2 ∙ The Test!</original_episode_title>
     <description lang="en">Kids</description>
@@ -272,7 +194,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="16:08">
+  <programme date="2024/01/14" time="14:59">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -286,7 +208,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="16:09">
+  <programme date="2024/01/14" time="15:00">
     <original_title lang="en">PLUGGED IN The True Toxicity of Social Media</original_title>
     <original_episode_title lang="en">PLUGGED IN The True Toxicity of Social Medi</original_episode_title>
     <description lang="en">Documentary</description>
@@ -300,7 +222,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="17:02">
+  <programme date="2024/01/14" time="15:52">
     <local_title lang="eng">Music</local_title>
     <original_title lang="en">Music</original_title>
     <local_episode_title lang="eng">Music</local_episode_title>
@@ -318,7 +240,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="17:09">
+  <programme date="2024/01/14" time="16:00">
     <original_title lang="en">Dr. Myles Munroe</original_title>
     <original_episode_title lang="en">Kingdom Citizenship Success Laws of Marriage | Dr. Myles Munroe</original_episode_title>
     <description lang="en">Motivational</description>
@@ -332,7 +254,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="18:12">
+  <programme date="2024/01/14" time="17:02">
     <original_title lang="en">APOCS January 5 2024</original_title>
     <original_episode_title lang="en">Tribute to Nera 10 and All APOCS</original_episode_title>
     <description lang="en">Revolution</description>
@@ -346,7 +268,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="19:16">
+  <programme date="2024/01/14" time="18:06">
     <original_title lang="en">The Encounter </original_title>
     <original_episode_title lang="en">The Encounter </original_episode_title>
     <description lang="en">Movie</description>
@@ -360,7 +282,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="20:46">
+  <programme date="2024/01/14" time="19:36">
     <original_title lang="en">TED Talk</original_title>
     <original_episode_title lang="en">Chimamanda Ngozi Adichie: The danger of a single story | TED</original_episode_title>
     <description lang="en">Motivational</description>
@@ -374,7 +296,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="21:05">
+  <programme date="2024/01/14" time="19:55">
     <local_title lang="eng">Music</local_title>
     <original_title lang="en">Music</original_title>
     <local_episode_title lang="eng">Music</local_episode_title>
@@ -392,7 +314,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="21:10">
+  <programme date="2024/01/14" time="20:00">
     <original_title lang="en">Dr. Myles Munroe</original_title>
     <original_episode_title lang="en">Kingdom Citizenship Success Laws of Marriage | Dr. Myles Munroe</original_episode_title>
     <description lang="en">Motivational</description>
@@ -406,7 +328,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="22:12">
+  <programme date="2024/01/14" time="21:02">
     <original_title lang="en">Superbook</original_title>
     <original_episode_title lang="en">S1.E1 ∙ In the Beginning</original_episode_title>
     <description lang="en">Kids</description>
@@ -420,7 +342,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="22:39">
+  <programme date="2024/01/14" time="21:29">
     <original_title lang="en">Superbook</original_title>
     <original_episode_title lang="en">S1.E2 ∙ The Test!</original_episode_title>
     <description lang="en">Kids</description>
@@ -434,7 +356,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="23:06">
+  <programme date="2024/01/14" time="21:56">
     <local_title lang="eng">Music</local_title>
     <original_title lang="en">Music</original_title>
     <local_episode_title lang="eng">Music</local_episode_title>
@@ -452,7 +374,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="23:10">
+  <programme date="2024/01/14" time="22:00">
     <local_title lang="eng">Music</local_title>
     <original_title lang="en">Music</original_title>
     <local_episode_title lang="eng">Music</local_episode_title>
@@ -470,7 +392,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/14" time="23:40">
+  <programme date="2024/01/14" time="22:30">
     <original_title lang="en">Real Engineering</original_title>
     <original_episode_title lang="en">The Insane Engineering of Orbit</original_episode_title>
     <description lang="en">Documentary</description>
@@ -484,7 +406,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/15" time="00:10">
+  <programme date="2024/01/14" time="23:00">
     <original_title lang="en">Some Mothers Do 'Ave 'Em</original_title>
     <original_episode_title lang="en">S1.E1 ∙ Getting a Job</original_episode_title>
     <description lang="en">Comedy</description>
@@ -498,7 +420,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/15" time="00:39">
+  <programme date="2024/01/14" time="23:29">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -512,7 +434,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/15" time="00:40">
+  <programme date="2024/01/14" time="23:30">
     <original_title lang="en">PAW Patrol: Season 4, Episode 5</original_title>
     <original_episode_title lang="en">PAW Patrol: Season 4, Episode 5</original_episode_title>
     <description lang="en">Kids</description>
@@ -526,7 +448,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/15" time="01:04">
+  <programme date="2024/01/14" time="23:54">
     <original_title lang="en">Ego Episode 1</original_title>
     <original_episode_title lang="en">Ego Episode 1</original_episode_title>
     <description lang="en">Series</description>
@@ -540,7 +462,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/15" time="03:15">
+  <programme date="2024/01/15" time="02:05">
     <local_title lang="eng">Music</local_title>
     <original_title lang="en">Music</original_title>
     <local_episode_title lang="eng">Music</local_episode_title>
@@ -558,7 +480,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/15" time="06:10">
+  <programme date="2024/01/15" time="05:01">
     <local_title lang="eng">Dr. Myles Monroe</local_title>
     <original_title lang="en">Dr Myles Monroe</original_title>
     <local_episode_title lang="eng">How to Make your Marriage Work</local_episode_title>
@@ -576,7 +498,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/01/15" time="07:09">
+  <programme date="2024/01/15" time="05:59">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
