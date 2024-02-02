@@ -1,34 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <channel name="SCBC Television">
-  <programme date="2024/02/02" time="06:00">
-    <original_title lang="en">Dr. Myles Munroe</original_title>
-    <original_episode_title lang="en">Entering and Experiencing Kingdom Citizenship Part 1</original_episode_title>
-    <description lang="en">Motivational</description>
-    <episode_description lang="en">This teaching is from the series entitled Kingdom First - Rediscovering God’s Priority Volume 4</episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2024/02/02" time="06:59">
-    <original_title lang="en" />
-    <original_episode_title lang="en"></original_episode_title>
-    <description lang="en"></description>
-    <episode_description lang="en"></episode_description>
-    <season_number></season_number>
-    <episode_number></episode_number>
-    <Year></Year>
-    <country></country>
-    <director></director>
-    <lead_actors></lead_actors>
-    <imdb_link></imdb_link>
-    <image_url></image_url>
-  </programme>
-  <programme date="2024/02/02" time="07:00">
+  <programme date="2024/02/02" time="09:00">
     <original_title lang="en">Heartbeat Episode 22</original_title>
     <original_episode_title lang="en">Heartbeat Episode 22</original_episode_title>
     <description lang="en">Series</description>
@@ -42,7 +14,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="07:45">
+  <programme date="2024/02/02" time="09:45">
     <original_title lang="en">SISTA SHOW Episode 10  </original_title>
     <original_episode_title lang="en">SISTA SHOW Episode 10  </original_episode_title>
     <description lang="en">Entertainment</description>
@@ -56,7 +28,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="07:55">
+  <programme date="2024/02/02" time="09:55">
     <local_title lang="eng">Music</local_title>
     <original_title lang="en">Music</original_title>
     <local_episode_title lang="eng">Music</local_episode_title>
@@ -74,7 +46,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="08:00">
+  <programme date="2024/02/02" time="10:00">
     <local_title lang="eng">Shamba Shape Up Series 1</local_title>
     <original_title lang="en">Shamba Shape Up Series 1</original_title>
     <local_episode_title lang="eng">Shamba Shape Up Series 1 - Ep 3: Tomatoes, Cow Care, Chickens</local_episode_title>
@@ -92,7 +64,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="08:29">
+  <programme date="2024/02/02" time="10:29">
     <original_title lang="en">The Fresh Prince of Bel-Air</original_title>
     <original_episode_title lang="en">Someday Your Prince Will Be in Effect: Part 2</original_episode_title>
     <description lang="en">Comedy</description>
@@ -106,7 +78,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="08:53">
+  <programme date="2024/02/02" time="10:53">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -120,7 +92,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="09:00">
+  <programme date="2024/02/02" time="11:00">
     <local_title lang="en">News</local_title>
     <original_title lang="en">News</original_title>
     <local_episode_title lang="en"></local_episode_title>
@@ -138,7 +110,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="10:00">
+  <programme date="2024/02/02" time="12:00">
     <original_title lang="en">Tootsie.</original_title>
     <original_episode_title lang="en">Tootsie.</original_episode_title>
     <description lang="en">Movie</description>
@@ -152,7 +124,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="11:59">
+  <programme date="2024/02/02" time="14:00">
     <original_title lang="en">Rusty Rivets - S03E04-05</original_title>
     <original_episode_title lang="en">Frankie's Super Shoes; Rusty's Rapid Ralph Return</original_episode_title>
     <description lang="en">Kis/Animation</description>
@@ -166,7 +138,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="12:23">
+  <programme date="2024/02/02" time="14:23">
     <original_title lang="en">Rusty Rivets - S03E08-09</original_title>
     <original_episode_title lang="en"> Rusty and the Search for Ozzy + Rusty's Dactyl Dilemma</original_episode_title>
     <description lang="en">Kids/Animation</description>
@@ -180,7 +152,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="12:46">
+  <programme date="2024/02/02" time="14:47">
     <original_title lang="en">House of Lords</original_title>
     <original_episode_title lang="en">House of Lords</original_episode_title>
     <description lang="en">Political</description>
@@ -194,7 +166,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="13:01">
+  <programme date="2024/02/02" time="15:01">
     <original_title lang="en">Barney</original_title>
     <original_episode_title lang="en">It's Time for Counting</original_episode_title>
     <description lang="en">Kids</description>
@@ -208,7 +180,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="13:52">
+  <programme date="2024/02/02" time="15:52">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -222,7 +194,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="14:00">
+  <programme date="2024/02/02" time="16:00">
     <original_title lang="en">Paternity Court</original_title>
     <original_episode_title lang="en">Best Friend Betrayal and Paternity Doubts</original_episode_title>
     <description lang="en">Reality TV</description>
@@ -236,7 +208,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="14:30">
+  <programme date="2024/02/02" time="16:30">
     <original_title lang="en">Paternity Court</original_title>
     <original_episode_title lang="en">After 33 Years of Doubt I Need to Find Out if My Daughter is Mine</original_episode_title>
     <description lang="en">Reality TV</description>
@@ -250,7 +222,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="15:03">
+  <programme date="2024/02/02" time="17:03">
     <original_title lang="en">The Real Housewives of Johannesburg: Season 1, Episode 9</original_title>
     <original_episode_title lang="en">Shopping Spree Showdown</original_episode_title>
     <description lang="en">Reality TV</description>
@@ -264,7 +236,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="15:49">
+  <programme date="2024/02/02" time="17:49">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -278,7 +250,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="15:59">
+  <programme date="2024/02/02" time="17:59">
     <local_title lang="en">Aljazeera News ᴸᶦᵛᵉ</local_title>
     <original_title lang="en">Aljazeera News ᴸᶦᵛᵉ</original_title>
     <local_episode_title lang="en"></local_episode_title>
@@ -296,7 +268,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="17:00">
+  <programme date="2024/02/02" time="19:00">
     <original_title lang="en">America's Funniest Home Videos</original_title>
     <original_episode_title lang="en">S27.E21 ∙ Episode #27.21</original_episode_title>
     <description lang="en">Reality</description>
@@ -310,7 +282,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="17:42">
+  <programme date="2024/02/02" time="19:42">
     <local_title lang="eng">TED Talk</local_title>
     <original_title lang="en">TED Talk</original_title>
     <local_episode_title lang="eng">100 solutions to reverse global warming</local_episode_title>
@@ -328,7 +300,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="18:00">
+  <programme date="2024/02/02" time="20:00">
     <original_title lang="en">Heartbeat Episode 23</original_title>
     <original_episode_title lang="en">Heartbeat Episode 23</original_episode_title>
     <description lang="en">Series</description>
@@ -342,7 +314,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="18:45">
+  <programme date="2024/02/02" time="20:45">
     <original_title lang="en">SISTA SHOW Episode 10  </original_title>
     <original_episode_title lang="en">SISTA SHOW Episode 10  </original_episode_title>
     <description lang="en">Entertainment</description>
@@ -356,7 +328,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="19:00">
+  <programme date="2024/02/02" time="21:00">
     <original_title lang="en">Furious 7</original_title>
     <original_episode_title lang="en">Furious 7</original_episode_title>
     <description lang="en">PG [12A] 2015 ‧ Action/Crime</description>
@@ -370,7 +342,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="21:20">
+  <programme date="2024/02/02" time="23:20">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -384,7 +356,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="21:20">
+  <programme date="2024/02/02" time="23:21">
     <original_title lang="en">Dr. Myles Munroe</original_title>
     <original_episode_title lang="en">Entering and Experiencing Kingdom Citizenship Part 1</original_episode_title>
     <description lang="en">Motivational</description>
@@ -398,7 +370,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="22:20">
+  <programme date="2024/02/03" time="00:20">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -412,7 +384,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="22:21">
+  <programme date="2024/02/03" time="00:21">
     <original_title lang="en">Heartbeat Episode 17</original_title>
     <original_episode_title lang="en">Heartbeat Episode 17 (</original_episode_title>
     <description lang="en">Series</description>
@@ -426,7 +398,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="23:07">
+  <programme date="2024/02/03" time="01:07">
     <local_title lang="eng">Shamba Shape Up Series 1</local_title>
     <original_title lang="en">Shamba Shape Up Series 1</original_title>
     <local_episode_title lang="eng">Shamba Shape Up Series 1 - Ep 3: Tomatoes, Cow Care, Chickens</local_episode_title>
@@ -444,7 +416,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/02" time="23:33">
+  <programme date="2024/02/03" time="01:33">
     <original_title lang="en">The Fresh Prince of Bel-Air</original_title>
     <original_episode_title lang="en">Someday Your Prince Will Be in Effect: Part 2</original_episode_title>
     <description lang="en">Comedy</description>
@@ -458,7 +430,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="00:00">
+  <programme date="2024/02/03" time="02:00">
     <local_title lang="en">News</local_title>
     <original_title lang="en">News</original_title>
     <local_episode_title lang="en"></local_episode_title>
@@ -476,7 +448,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="01:00">
+  <programme date="2024/02/03" time="03:00">
     <original_title lang="en">After Earth(Movie)</original_title>
     <original_episode_title lang="en">After Earth</original_episode_title>
     <description lang="en">Movie</description>
@@ -490,7 +462,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="02:40">
+  <programme date="2024/02/03" time="04:40">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -504,7 +476,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="02:59">
+  <programme date="2024/02/03" time="05:00">
     <original_title lang="en">Heartbeat Episode 18 (Series)</original_title>
     <original_episode_title lang="en">Heartbeat Episode 18 (Series)</original_episode_title>
     <description lang="en">Series</description>
@@ -518,7 +490,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="03:46">
+  <programme date="2024/02/03" time="05:46">
     <original_title lang="en">SISTA SHOW Episode 5</original_title>
     <original_episode_title lang="en">SISTA SHOW Episode 5</original_episode_title>
     <description lang="en">Talk Show</description>
@@ -532,7 +504,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="04:00">
+  <programme date="2024/02/03" time="06:00">
     <original_title lang="en">Rusty Rivets BR: Episode 1</original_title>
     <original_episode_title lang="en">Rusty's Dino Island</original_episode_title>
     <description lang="en">Kids/Animation</description>
@@ -546,7 +518,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="04:23">
+  <programme date="2024/02/03" time="06:23">
     <original_title lang="en">Rusty Rivets BR: Episode 3</original_title>
     <original_episode_title lang="en">Rusty's Raptor Race; Rusty's Triceratops</original_episode_title>
     <description lang="en">Kids/Animation</description>
@@ -560,7 +532,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="04:47">
+  <programme date="2024/02/03" time="06:47">
     <original_title lang="en">House of Lords</original_title>
     <original_episode_title lang="en">House of Lords</original_episode_title>
     <description lang="en">Political</description>
@@ -574,7 +546,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="05:01">
+  <programme date="2024/02/03" time="07:01">
     <local_title lang="eng">Barney: Big World Adventure: The Movie</local_title>
     <original_title lang="en">Barney: Big World Adventure: The Movie</original_title>
     <local_episode_title lang="eng">Barney: Big World Adventure: The Movie</local_episode_title>
@@ -592,7 +564,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="06:01">
+  <programme date="2024/02/03" time="08:01">
     <original_title lang="en">Heartbeat Episode 19</original_title>
     <original_episode_title lang="en">Heartbeat Episode 19</original_episode_title>
     <description lang="en">Series</description>
@@ -606,7 +578,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="06:47">
+  <programme date="2024/02/03" time="08:47">
     <original_title lang="en">Heartbeat Episode 20</original_title>
     <original_episode_title lang="en">Heartbeat Episode 20</original_episode_title>
     <description lang="en">Series</description>
@@ -620,7 +592,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="07:33">
+  <programme date="2024/02/03" time="09:33">
     <original_title lang="en">Heartbeat Episode 21</original_title>
     <original_episode_title lang="en">Heartbeat Episode 21</original_episode_title>
     <description lang="en">Series</description>
@@ -634,7 +606,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="08:20">
+  <programme date="2024/02/03" time="10:20">
     <original_title lang="en">Heartbeat Episode 22</original_title>
     <original_episode_title lang="en">Heartbeat Episode 22</original_episode_title>
     <description lang="en">Series</description>
@@ -648,7 +620,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="09:04">
+  <programme date="2024/02/03" time="11:04">
     <original_title lang="en">Heartbeat Episode 23</original_title>
     <original_episode_title lang="en">Heartbeat Episode 23</original_episode_title>
     <description lang="en">Series</description>
@@ -662,7 +634,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="09:50">
+  <programme date="2024/02/03" time="11:50">
     <local_title lang="eng">Music</local_title>
     <original_title lang="en">Music</original_title>
     <local_episode_title lang="eng">Music</local_episode_title>
@@ -680,7 +652,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="10:00">
+  <programme date="2024/02/03" time="12:00">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -694,7 +666,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="10:01">
+  <programme date="2024/02/03" time="12:01">
     <original_title lang="en">SISTA SHOW Episode 6</original_title>
     <original_episode_title lang="en">Big Sista Tracy Wanjiru takes the Celebrity Quickfire</original_episode_title>
     <description lang="en">Talk Show</description>
@@ -708,7 +680,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="10:12">
+  <programme date="2024/02/03" time="12:12">
     <original_title lang="en">SISTA SHOW Episode 7 </original_title>
     <original_episode_title lang="en">Hosts take the Spicy Food Challenge!</original_episode_title>
     <description lang="en">Talk Show</description>
@@ -722,7 +694,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="10:22">
+  <programme date="2024/02/03" time="12:22">
     <original_title lang="en">SISTA SHOW Episode 8 We have a new challenge coming up!</original_title>
     <original_episode_title lang="en">We have a new challenge coming up!.</original_episode_title>
     <description lang="en">Talk Show</description>
@@ -736,7 +708,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="10:31">
+  <programme date="2024/02/03" time="12:31">
     <original_title lang="en">SISTA SHOW Episode 9 </original_title>
     <original_episode_title lang="en">SKY Girls talk about their 'embarrazing' moments!!</original_episode_title>
     <description lang="en">Talk Show</description>
@@ -750,7 +722,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="10:40">
+  <programme date="2024/02/03" time="12:40">
     <original_title lang="en">SISTA SHOW Episode 10  </original_title>
     <original_episode_title lang="en">SISTA SHOW Episode 10  </original_episode_title>
     <description lang="en">Entertainment</description>
@@ -764,7 +736,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="10:51">
+  <programme date="2024/02/03" time="12:51">
     <local_title lang="eng">Music</local_title>
     <original_title lang="en">Music</original_title>
     <local_episode_title lang="eng">Music</local_episode_title>
@@ -782,7 +754,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="10:57">
+  <programme date="2024/02/03" time="12:57">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -796,7 +768,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="11:00">
+  <programme date="2024/02/03" time="13:00">
     <original_title lang="en">Nutty Professor II: The Klumps</original_title>
     <original_episode_title lang="en">Nutty Professor II: The Klumps</original_episode_title>
     <description lang="en">Movie</description>
@@ -810,7 +782,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="12:47">
+  <programme date="2024/02/03" time="14:47">
     <original_title lang="en">TED Talk</original_title>
     <original_episode_title lang="en">TED Talk - How Africa can use its traditional knowledge to make progress   Chika Ezeanya-Esiobu</original_episode_title>
     <description lang="en">Motivational</description>
@@ -824,7 +796,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="13:01">
+  <programme date="2024/02/03" time="15:02">
     <original_title lang="en">Tootsie.</original_title>
     <original_episode_title lang="en">Tootsie.</original_episode_title>
     <description lang="en">Movie</description>
@@ -838,7 +810,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="15:00">
+  <programme date="2024/02/03" time="17:00">
     <original_title lang="en">Furious 7</original_title>
     <original_episode_title lang="en">Furious 7</original_episode_title>
     <description lang="en">PG [12A] 2015 ‧ Action/Crime</description>
@@ -852,7 +824,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="17:20">
+  <programme date="2024/02/03" time="19:20">
     <original_title lang="en">Freely Expressed Wishes of the people of Southern Cameroons </original_title>
     <original_episode_title lang="en">S1E0</original_episode_title>
     <description lang="en">Documentary</description>
@@ -866,7 +838,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="17:24">
+  <programme date="2024/02/03" time="19:24">
     <original_title lang="en">Freely Expressed Wishes of the people of Southern Cameroons </original_title>
     <original_episode_title lang="en">S1E1</original_episode_title>
     <description lang="en">Documentary</description>
@@ -880,7 +852,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="17:37">
+  <programme date="2024/02/03" time="19:37">
     <original_title lang="en">Freely Expressed Wishes of the people of Southern Cameroons </original_title>
     <original_episode_title lang="en">S1E2</original_episode_title>
     <description lang="en">documentary</description>
@@ -894,7 +866,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="17:50">
+  <programme date="2024/02/03" time="19:51">
     <original_title lang="en">Freely Expressed Wishes of the people of Southern Cameroons</original_title>
     <original_episode_title lang="en">S1E3 </original_episode_title>
     <description lang="en">Documentary</description>
@@ -908,7 +880,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="18:05">
+  <programme date="2024/02/03" time="20:05">
     <original_title lang="en">World's Most Amazing Videos Wasted, Reckless, and Out of Controll</original_title>
     <original_episode_title lang="en">World's Most Amazing Videos Wasted, Reckless, and Out of Controll</original_episode_title>
     <description lang="en">Variety</description>
@@ -922,7 +894,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="18:47">
+  <programme date="2024/02/03" time="20:47">
     <original_title lang="en">TED Talk</original_title>
     <original_episode_title lang="en">Kasiva Mutua: How I use the drum to tell my story | TED</original_episode_title>
     <description lang="en">Motivational</description>
@@ -936,7 +908,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="19:00">
+  <programme date="2024/02/03" time="21:00">
     <local_title lang="en">Nigeria vs Cameroon. Africa Cup of Nations Round of 16 ᴸᶦᵛᵉ</local_title>
     <original_title lang="en">Nigeria vs Cameroon. Africa Cup of Nations Round of 16 ᴸᶦᵛᵉ</original_title>
     <local_episode_title lang="en"></local_episode_title>
@@ -954,7 +926,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="21:00">
+  <programme date="2024/02/03" time="23:00">
     <original_title lang="en">The Real Housewives of Johannesburg: Season 1, Episode 9</original_title>
     <original_episode_title lang="en">Shopping Spree Showdown</original_episode_title>
     <description lang="en">Reality TV</description>
@@ -968,7 +940,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="21:46">
+  <programme date="2024/02/03" time="23:46">
     <original_title lang="en">The Real Housewives of Johannesburg: Season 1, Episode 10</original_title>
     <original_episode_title lang="en">Haarties</original_episode_title>
     <description lang="en">Reality TV</description>
@@ -982,7 +954,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="22:31">
+  <programme date="2024/02/04" time="00:31">
     <original_title lang="en">The Real Housewives of Johannesburg: Season 1, Episode 11</original_title>
     <original_episode_title lang="en">The Big Day</original_episode_title>
     <description lang="en">Reality TV</description>
@@ -996,7 +968,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/03" time="23:17">
+  <programme date="2024/02/04" time="01:17">
     <original_title lang="en">The Real Housewives of Johannesburg: Season 1, Episode 12</original_title>
     <original_episode_title lang="en">Season Finale</original_episode_title>
     <description lang="en">Reality TV</description>
@@ -1010,7 +982,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="00:02">
+  <programme date="2024/02/04" time="02:02">
     <original_title lang="en">The Real Housewives of Johannesburg: Season 1, Episode 13</original_title>
     <original_episode_title lang="en">Reunion Part 1</original_episode_title>
     <description lang="en">Reality TV</description>
@@ -1024,7 +996,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="00:48">
+  <programme date="2024/02/04" time="02:48">
     <original_title lang="en">House of Lords</original_title>
     <original_episode_title lang="en">Lord Grantchester (Labour)</original_episode_title>
     <description lang="en">Polictical</description>
@@ -1038,7 +1010,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="01:00">
+  <programme date="2024/02/04" time="03:00">
     <original_title lang="en">Heartbeat Episode 19</original_title>
     <original_episode_title lang="en">Heartbeat Episode 19</original_episode_title>
     <description lang="en">Series</description>
@@ -1052,7 +1024,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="01:46">
+  <programme date="2024/02/04" time="03:46">
     <original_title lang="en">Heartbeat Episode 20</original_title>
     <original_episode_title lang="en">Heartbeat Episode 20</original_episode_title>
     <description lang="en">Series</description>
@@ -1066,7 +1038,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="02:32">
+  <programme date="2024/02/04" time="04:32">
     <original_title lang="en">Heartbeat Episode 21</original_title>
     <original_episode_title lang="en">Heartbeat Episode 21</original_episode_title>
     <description lang="en">Series</description>
@@ -1080,7 +1052,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="03:19">
+  <programme date="2024/02/04" time="05:19">
     <original_title lang="en">Heartbeat Episode 22</original_title>
     <original_episode_title lang="en">Heartbeat Episode 22</original_episode_title>
     <description lang="en">Series</description>
@@ -1094,7 +1066,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="04:03">
+  <programme date="2024/02/04" time="06:03">
     <original_title lang="en">Heartbeat Episode 23</original_title>
     <original_episode_title lang="en">Heartbeat Episode 23</original_episode_title>
     <description lang="en">Series</description>
@@ -1108,7 +1080,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="04:49">
+  <programme date="2024/02/04" time="06:49">
     <original_title lang="en">House of Lords</original_title>
     <original_episode_title lang="en">Lord Grantchester (Labour)</original_episode_title>
     <description lang="en">Polictical</description>
@@ -1122,7 +1094,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="05:00">
+  <programme date="2024/02/04" time="07:00">
     <original_title lang="en">Dr Myles Munroe</original_title>
     <original_episode_title lang="en">Understanding Kingdom Colonization Part 1</original_episode_title>
     <description lang="en">Motivational</description>
@@ -1136,7 +1108,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="06:00">
+  <programme date="2024/02/04" time="08:00">
     <original_title lang="en">Dr. Myles Munroe</original_title>
     <original_episode_title lang="en">Entering and Experiencing Kingdom Citizenship Part 1</original_episode_title>
     <description lang="en">Motivational</description>
@@ -1150,7 +1122,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="06:59">
+  <programme date="2024/02/04" time="08:59">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -1164,7 +1136,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="07:00">
+  <programme date="2024/02/04" time="09:00">
     <local_title lang="en">TBN Africa ᴸᶦᵛᵉ</local_title>
     <original_title lang="en">TBN Africa ᴸᶦᵛᵉ</original_title>
     <local_episode_title lang="en"></local_episode_title>
@@ -1182,7 +1154,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="10:00">
+  <programme date="2024/02/04" time="12:00">
     <original_title lang="en">Ego Episode 3</original_title>
     <original_episode_title lang="en">Ego Episode 3</original_episode_title>
     <description lang="en">Series/Drama</description>
@@ -1196,7 +1168,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="12:08">
+  <programme date="2024/02/04" time="14:08">
     <original_title lang="en">Taken</original_title>
     <original_episode_title lang="en">Taken</original_episode_title>
     <description lang="en">PG [18] 2008 ‧ Action/Thriller</description>
@@ -1210,7 +1182,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="13:47">
+  <programme date="2024/02/04" time="15:47">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -1224,7 +1196,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="13:48">
+  <programme date="2024/02/04" time="15:48">
     <original_title lang="en">House of Commons</original_title>
     <original_episode_title lang="en">Harriett Baldwin MP, Minister of State (Foreign and Commonwealth Office) (Joint with the Department for International Development) (West Worcestershire, Conservative)</original_episode_title>
     <description lang="en">Politics</description>
@@ -1238,7 +1210,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="14:00">
+  <programme date="2024/02/04" time="16:00">
     <original_title lang="en">Superbook - Jacob And Esau</original_title>
     <original_episode_title lang="en">S1.E3 ∙ Jacob and Esau</original_episode_title>
     <description lang="en">Animation/Adventure/Family</description>
@@ -1252,7 +1224,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="14:27">
+  <programme date="2024/02/04" time="16:27">
     <original_title lang="en">Superbook</original_title>
     <original_episode_title lang="en">S1.E4 ∙ Exodus: Let My People Go</original_episode_title>
     <description lang="en">Animation/Adventure/Family</description>
@@ -1266,7 +1238,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="14:54">
+  <programme date="2024/02/04" time="16:54">
     <original_title lang="en">Kids Health</original_title>
     <original_episode_title lang="en">How Your Muscles Work</original_episode_title>
     <description lang="en">Animation/Educational</description>
@@ -1280,7 +1252,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="15:00">
+  <programme date="2024/02/04" time="17:00">
     <original_title lang="en">Some Mothers Do 'Ave 'Em: Season 1, Episode 3</original_title>
     <original_episode_title lang="en">Love Thy Neighbour</original_episode_title>
     <description lang="en">Comedy</description>
@@ -1294,7 +1266,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="15:31">
+  <programme date="2024/02/04" time="17:31">
     <original_title lang="en">Real Engineering</original_title>
     <original_episode_title lang="en">The Insane Engineering of the 787</original_episode_title>
     <description lang="en">Science</description>
@@ -1308,7 +1280,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="17:01">
+  <programme date="2024/02/04" time="19:01">
     <original_title lang="en">The Good, The Bad And The Ugly</original_title>
     <original_episode_title lang="en">The Good, The Bad And The Ugly</original_episode_title>
     <description lang="en">Movie</description>
@@ -1322,7 +1294,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="19:59">
+  <programme date="2024/02/04" time="22:00">
     <original_title lang="en">Monster Hunter</original_title>
     <original_episode_title lang="en">Monster Hunter</original_episode_title>
     <description lang="en">PG [12] 2020 ‧ Action/Fantasy</description>
@@ -1336,7 +1308,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="21:43">
+  <programme date="2024/02/04" time="23:43">
     <local_title lang="eng">TED Talk</local_title>
     <original_title lang="en">TED Talk</original_title>
     <local_episode_title lang="eng">100 solutions to reverse global warming</local_episode_title>
@@ -1354,7 +1326,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/04" time="22:00">
+  <programme date="2024/02/05" time="00:00">
     <original_title lang="en">Ego Episode 3</original_title>
     <original_episode_title lang="en">Ego Episode 3</original_episode_title>
     <description lang="en">Series/Drama</description>
@@ -1368,7 +1340,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/05" time="00:07">
+  <programme date="2024/02/05" time="02:08">
     <original_title lang="en">God's Not Dead</original_title>
     <original_episode_title lang="en">God's Not Dead</original_episode_title>
     <description lang="en">2014 ‧ Thriller/Drama ‧ 1h 52m</description>
@@ -1382,7 +1354,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/05" time="02:07">
+  <programme date="2024/02/05" time="04:07">
     <original_title lang="en">APOCS January 5 2024</original_title>
     <original_episode_title lang="en">Tribute to Nera 10 and All APOCS</original_episode_title>
     <description lang="en">Revolution</description>
@@ -1396,7 +1368,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/05" time="03:11">
+  <programme date="2024/02/05" time="05:11">
     <original_title lang="en">Some Mothers Do 'Ave 'Em: Season 1, Episode 2</original_title>
     <original_episode_title lang="en">George's House</original_episode_title>
     <description lang="en">Comedy</description>
@@ -1410,7 +1382,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/05" time="03:36">
+  <programme date="2024/02/05" time="05:36">
     <original_title lang="en" />
     <original_episode_title lang="en"></original_episode_title>
     <description lang="en"></description>
@@ -1424,7 +1396,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/05" time="04:08">
+  <programme date="2024/02/05" time="06:08">
     <original_title lang="en">Dr. Myles Munroe</original_title>
     <original_episode_title lang="en">Entering and Experiencing Kingdom Citizenship Part 1</original_episode_title>
     <description lang="en">Motivational</description>
@@ -1438,7 +1410,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/05" time="05:07">
+  <programme date="2024/02/05" time="07:07">
     <original_title lang="en">Paternity Court</original_title>
     <original_episode_title lang="en">Years of Denial, But Is He the Father?</original_episode_title>
     <description lang="en">Reality TV</description>
@@ -1452,7 +1424,7 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
-  <programme date="2024/02/05" time="05:37">
+  <programme date="2024/02/05" time="07:37">
     <original_title lang="en">Paternity Court</original_title>
     <original_episode_title lang="en">19 Years of Child Support But Is He the Father?</original_episode_title>
     <description lang="en">Reality TV</description>
