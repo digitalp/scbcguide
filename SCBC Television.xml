@@ -1438,4 +1438,32 @@
     <imdb_link></imdb_link>
     <image_url></image_url>
   </programme>
+  <programme date="2024/02/05" time="05:07">
+    <original_title lang="en">Paternity Court</original_title>
+    <original_episode_title lang="en">Years of Denial, But Is He the Father?</original_episode_title>
+    <description lang="en">Reality TV</description>
+    <episode_description lang="en">1. Williams v. Jackson - Exhausted from years of denial, a Georgia woman brings her husband to court to demand he steps up as the father to her two-year-old son.</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
+  <programme date="2024/02/05" time="05:37">
+    <original_title lang="en">Paternity Court</original_title>
+    <original_episode_title lang="en">19 Years of Child Support But Is He the Father?</original_episode_title>
+    <description lang="en">Reality TV</description>
+    <episode_description lang="en">1. Haralson v. Smith - After nineteen years of paying for child support, this Detriot man finally meets his alleged daughter yet denies paternity.</episode_description>
+    <season_number></season_number>
+    <episode_number></episode_number>
+    <Year></Year>
+    <country></country>
+    <director></director>
+    <lead_actors></lead_actors>
+    <imdb_link></imdb_link>
+    <image_url></image_url>
+  </programme>
 </channel>
